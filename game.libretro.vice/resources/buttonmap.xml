@@ -3,13 +3,13 @@
   <!-- TODO: Add support for Atari 2600 controller --->
   <controller id="game.controller.default" type="RETRO_DEVICE_JOYPAD" subclass="1">
     <!-- Fire / Mouse button 1 -->
-    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
+    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
     <!-- Mouse button 2 -->
-    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
     <!-- Return -->
-    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
     <!-- F9 -->
-    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
     <!-- Mouse pointer -->
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
