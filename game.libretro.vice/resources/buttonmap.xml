@@ -18,7 +18,7 @@
     <!-- Num Plus -->
     <feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
     <!-- Num Minus -->
-    <feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+    <feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
     <!-- Num Multiply -->
     <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
     <!-- Escape -->
