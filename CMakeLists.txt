@@ -10,3 +10,5 @@ set(VICE_CUSTOM_BINARY ${VICE_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} VICE "")
+
+include(CPack)
