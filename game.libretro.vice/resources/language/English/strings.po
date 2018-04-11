@@ -37,54 +37,62 @@ msgid "DriveTrueEmulation"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Retro joy0"
+msgid "Controller0 port"
 msgstr ""
 
 msgctxt "#30006"
-msgid "SidModel"
+msgid "Retro joy0"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Status Bar"
+msgid "SidModel"
 msgstr ""
 
 msgctxt "#30008"
-msgid "RetroPad B"
+msgid "Status Bar"
 msgstr ""
 
 msgctxt "#30009"
-msgid "RetroPad L"
+msgid "4-player adapter"
 msgstr ""
 
 msgctxt "#30010"
-msgid "RetroPad L2"
+msgid "RetroPad B"
 msgstr ""
 
 msgctxt "#30011"
-msgid "RetroPad L3"
+msgid "RetroPad L"
 msgstr ""
 
 msgctxt "#30012"
-msgid "RetroPad R"
+msgid "RetroPad L2"
 msgstr ""
 
 msgctxt "#30013"
-msgid "RetroPad R2"
+msgid "RetroPad L3"
 msgstr ""
 
 msgctxt "#30014"
-msgid "RetroPad R3"
+msgid "RetroPad R"
 msgstr ""
 
 msgctxt "#30015"
-msgid "RetroPad START"
+msgid "RetroPad R2"
 msgstr ""
 
 msgctxt "#30016"
-msgid "RetroPad X"
+msgid "RetroPad R3"
 msgstr ""
 
 msgctxt "#30017"
+msgid "RetroPad START"
+msgstr ""
+
+msgctxt "#30018"
+msgid "RetroPad X"
+msgstr ""
+
+msgctxt "#30019"
 msgid "RetroPad Y"
 msgstr ""
 
