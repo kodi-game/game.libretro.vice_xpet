@@ -14,7 +14,7 @@
 		<platforms></platforms>
 		<extensions>d64|d71|d80|d81|d82|g64|g41|x64|t64|tap|prg|p00|crt|bin|zip|gz|d6z|d7z|d8z|g6z|g4z|x6z|cmd</extensions>
 		<supports_vfs>false</supports_vfs>
-		<supports_standalone>false</supports_standalone>
+		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Commodore - C64 (VICE C64) 3.0</summary>
