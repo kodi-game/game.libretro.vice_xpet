@@ -99,4 +99,3 @@ msgstr ""
 msgctxt "#30020"
 msgid "RetroPad Y"
 msgstr ""
-
