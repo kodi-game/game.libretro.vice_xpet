@@ -21,7 +21,7 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Autostart Warp"
+msgid "Autostart warp"
 msgstr ""
 
 msgctxt "#30002"
@@ -33,27 +33,27 @@ msgid "C64 model"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Drive8 type"
+msgid "Datasette hotkeys"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Drive Sound Emulation"
+msgid "Drive sound emulation"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Drive Sound Volume"
+msgid "Drive true emulation"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Drive True Emulation"
+msgid "Color palette"
 msgstr ""
 
 msgctxt "#30008"
-msgid "External palette"
+msgid "RetroPad port"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Controller0 port"
+msgid "Keyrah keypad mappings"
 msgstr ""
 
 msgctxt "#30010"
@@ -61,117 +61,149 @@ msgid "RetroPad B"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Hotkey: Switch Joyports"
+msgid "Hotkey: Datasette forward"
 msgstr ""
 
 msgctxt "#30012"
-msgid "RetroPad L"
+msgid "Hotkey: Datasette reset"
 msgstr ""
 
 msgctxt "#30013"
-msgid "RetroPad L2"
+msgid "Hotkey: Datasette rewind"
 msgstr ""
 
 msgctxt "#30014"
-msgid "RetroPad L3"
+msgid "Hotkey: Datasette start"
 msgstr ""
 
 msgctxt "#30015"
-msgid "RetroPad L-Down"
+msgid "Hotkey: Datasette stop"
 msgstr ""
 
 msgctxt "#30016"
-msgid "RetroPad L-Left"
+msgid "Hotkey: Toggle datasette hotkeys"
 msgstr ""
 
 msgctxt "#30017"
-msgid "RetroPad L-Right"
+msgid "Hotkey: Switch joyports"
 msgstr ""
 
 msgctxt "#30018"
-msgid "RetroPad L-Up"
+msgid "RetroPad L"
 msgstr ""
 
 msgctxt "#30019"
-msgid "RetroPad R"
+msgid "RetroPad L2"
 msgstr ""
 
 msgctxt "#30020"
-msgid "RetroPad R2"
+msgid "RetroPad L3"
 msgstr ""
 
 msgctxt "#30021"
-msgid "RetroPad R3"
+msgid "RetroPad L-Down"
 msgstr ""
 
 msgctxt "#30022"
-msgid "RetroPad R-Down"
+msgid "RetroPad L-Left"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Hotkey: Reset"
+msgid "RetroPad L-Right"
 msgstr ""
 
 msgctxt "#30024"
-msgid "RetroPad R-Left"
+msgid "RetroPad L-Up"
 msgstr ""
 
 msgctxt "#30025"
-msgid "RetroPad R-Right"
+msgid "RetroPad R"
 msgstr ""
 
 msgctxt "#30026"
-msgid "RetroPad R-Up"
+msgid "RetroPad R2"
 msgstr ""
 
 msgctxt "#30027"
-msgid "RetroPad SELECT"
+msgid "RetroPad R3"
 msgstr ""
 
 msgctxt "#30028"
-msgid "RetroPad START"
+msgid "RetroPad R-Down"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Hotkey: Toggle Statusbar"
+msgid "Hotkey: Reset"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Hotkey: Toggle Virtual Keyboard"
+msgid "RetroPad R-Left"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Hotkey: Warp Mode"
+msgid "RetroPad R-Right"
 msgstr ""
 
 msgctxt "#30032"
-msgid "RetroPad X"
+msgid "RetroPad R-Up"
 msgstr ""
 
 msgctxt "#30033"
-msgid "RetroPad Y"
+msgid "RetroPad Select"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Reset type"
+msgid "RetroPad Start"
 msgstr ""
 
 msgctxt "#30035"
-msgid "ReSID sampling"
+msgid "Hotkey: Toggle statusbar"
 msgstr ""
 
 msgctxt "#30036"
-msgid "SID model"
+msgid "Hotkey: Toggle virtual keyboard"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Statusbar"
+msgid "Hotkey: Warp mode"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Virtual keyboard theme"
+msgid "RetroPad X"
 msgstr ""
 
 msgctxt "#30039"
+msgid "RetroPad Y"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Reset type"
+msgstr ""
+
+msgctxt "#30041"
+msgid "ReSID sampling"
+msgstr ""
+
+msgctxt "#30042"
+msgid "SID model"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Statusbar"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Virtual keyboard theme"
+msgstr ""
+
+msgctxt "#30045"
+msgid "RetroPad turbo fire"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Retropad turbo pulse"
+msgstr ""
+
+msgctxt "#30047"
 msgid "4-player adapter"
 msgstr ""
