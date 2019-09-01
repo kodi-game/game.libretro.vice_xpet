@@ -57,7 +57,7 @@ msgid "Keyrah keypad mappings"
 msgstr ""
 
 msgctxt "#30010"
-msgid "RetroPad B"
+msgid "RetroPad A"
 msgstr ""
 
 msgctxt "#30011"
