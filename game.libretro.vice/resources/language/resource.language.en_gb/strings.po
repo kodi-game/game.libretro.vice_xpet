@@ -21,39 +21,39 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Autostart warp"
+msgid "Autostart Warp"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Display borders"
+msgid "Display Borders"
 msgstr ""
 
 msgctxt "#30003"
-msgid "C64 model"
+msgid "Model"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Datasette hotkeys"
+msgid "Datasette Hotkeys"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Drive sound emulation"
+msgid "Drive Sound Emulation"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Drive true emulation"
+msgid "True Drive Emulation"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Color palette"
+msgid "Color Palette"
 msgstr ""
 
 msgctxt "#30008"
-msgid "RetroPad port"
+msgid "RetroPad Port"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Keyrah keypad mappings"
+msgid "Keyrah Keypad Mappings"
 msgstr ""
 
 msgctxt "#30010"
@@ -61,31 +61,31 @@ msgid "RetroPad A"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Hotkey: Datasette forward"
+msgid "Hotkey: Datasette Fast Forward"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Hotkey: Datasette reset"
+msgid "Hotkey: Datasette Reset"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Hotkey: Datasette rewind"
+msgid "Hotkey: Datasette Rewind"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Hotkey: Datasette start"
+msgid "Hotkey: Datasette Start"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Hotkey: Datasette stop"
+msgid "Hotkey: Datasette Stop"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Hotkey: Toggle datasette hotkeys"
+msgid "Hotkey: Toggle Datasette Hotkeys"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Hotkey: Switch joyports"
+msgid "Hotkey: Swap Joyports"
 msgstr ""
 
 msgctxt "#30018"
@@ -157,15 +157,15 @@ msgid "RetroPad Start"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Hotkey: Toggle statusbar"
+msgid "Hotkey: Toggle Statusbar"
 msgstr ""
 
 msgctxt "#30036"
-msgid "Hotkey: Toggle virtual keyboard"
+msgid "Hotkey: Toggle Virtual Keyboard"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Hotkey: Warp mode"
+msgid "Hotkey: Warp Mode"
 msgstr ""
 
 msgctxt "#30038"
@@ -177,33 +177,37 @@ msgid "RetroPad Y"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Reset type"
+msgid "Enable Mapping Options"
 msgstr ""
 
 msgctxt "#30041"
-msgid "ReSID sampling"
+msgid "Physical Keyboard Pass-through"
 msgstr ""
 
 msgctxt "#30042"
-msgid "SID model"
+msgid "Reset Type"
 msgstr ""
 
 msgctxt "#30043"
-msgid "Statusbar"
+msgid "ReSID Sampling"
 msgstr ""
 
 msgctxt "#30044"
-msgid "Virtual keyboard theme"
+msgid "SID Model"
 msgstr ""
 
 msgctxt "#30045"
-msgid "RetroPad turbo fire"
+msgid "Virtual Keyboard Theme"
 msgstr ""
 
 msgctxt "#30046"
-msgid "Retropad turbo pulse"
+msgid "RetroPad Turbo Fire"
 msgstr ""
 
 msgctxt "#30047"
-msgid "4-player adapter"
+msgid "RetroPad Turbo Pulse"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Userport Joystick Adapter"
 msgstr ""
