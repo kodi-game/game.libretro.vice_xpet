@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-vice (>= 3.3.0) | vice (>= 3.3.0)
+               libretro-vice (>= 3.5.0) | vice (>= 3.5.0)
 Standards-Version: 3.9.8
 Section: libs
 
