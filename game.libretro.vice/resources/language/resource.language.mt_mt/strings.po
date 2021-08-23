@@ -25,19 +25,19 @@ msgid "Model"
 msgstr ""
 
 msgctxt "#30002"
-msgid "System > RAM Expansion Unit"
+msgid "RAM Expansion Unit"
 msgstr ""
 
 msgctxt "#30003"
-msgid "System > JiffyDOS"
+msgid "JiffyDOS"
 msgstr ""
 
 msgctxt "#30004"
-msgid "System > Read 'vicerc'"
+msgid "Read 'vicerc'"
 msgstr ""
 
 msgctxt "#30005"
-msgid "System > Reset Type"
+msgid "Reset Type"
 msgstr ""
 
 msgctxt "#30006"
@@ -205,43 +205,43 @@ msgid "Audio > SFX Sound Expander"
 msgstr ""
 
 msgctxt "#30047"
-msgid "Audio > Output Sample Rate"
+msgid "Audio > Sample Rate"
 msgstr ""
 
 msgctxt "#30048"
-msgid "Input > Analog Stick Mouse Deadzone"
+msgid "Input > Analog Stick Mouse"
 msgstr ""
 
 msgctxt "#30049"
-msgid "Input > Analog Stick Mouse Speed"
+msgid "Input > Analog Stick Mouse Deadzone"
 msgstr ""
 
 msgctxt "#30050"
-msgid "Input > D-Pad Mouse Speed"
+msgid "Input > Analog Stick Mouse Speed"
 msgstr ""
 
 msgctxt "#30051"
-msgid "Input > Mouse Speed"
+msgid "Input > D-Pad Mouse Speed"
 msgstr ""
 
 msgctxt "#30052"
-msgid "Input > Userport Joystick Adapter"
+msgid "Input > Mouse Speed"
 msgstr ""
 
 msgctxt "#30053"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr ""
-
-msgctxt "#30054"
-msgid "Input > Keyboard Keymap"
-msgstr ""
-
-msgctxt "#30055"
 msgid "Input > Keyboard Pass-through"
 msgstr ""
 
-msgctxt "#30056"
+msgctxt "#30054"
 msgid "Input > Datasette Hotkeys"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Input > Keyrah Keypad Mappings"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Input > Keyboard Keymap"
 msgstr ""
 
 msgctxt "#30057"
@@ -393,13 +393,17 @@ msgid "RetroPad > Turbo Pulse"
 msgstr ""
 
 msgctxt "#30094"
-msgid "RetroPad > Port"
+msgid "Input > Userport Joystick Adapter"
 msgstr ""
 
 msgctxt "#30095"
-msgid "RetroPad > Port Type"
+msgid "RetroPad > Joystick Port"
 msgstr ""
 
 msgctxt "#30096"
+msgid "RetroPad > Joystick Port Type"
+msgstr ""
+
+msgctxt "#30097"
 msgid "RetroPad > Face Button Options"
 msgstr ""
