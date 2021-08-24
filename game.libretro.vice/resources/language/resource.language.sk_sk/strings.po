@@ -21,9 +21,7 @@ msgid "Commodore - C64 (VICE x64, fast) 3.5"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).
-
-Supported files: .d64, .d71, .d80, .d81, .d82, .g64, .g41, .x64, .t64, .tap, .prg, .p00, .crt, .bin, .zip, .7z, .gz, .d6z, .d7z, .d8z, .g6z, .g4z, .x6z, .cmd, .m3u, .vfl, .vsf, .nib, .nbz, .d2m, .d4m"
+msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).Supported files: .d64, .d71, .d80, .d81, .d82, .g64, .g41, .x64, .t64, .tap, .prg, .p00, .crt, .bin, .zip, .7z, .gz, .d6z, .d7z, .d8z, .g6z, .g4z, .x6z, .cmd, .m3u, .vfl, .vsf, .nib, .nbz, .d2m, .d4m"
 msgstr ""
 
 msgctxt "#30000"
