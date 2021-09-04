@@ -270,149 +270,173 @@ msgid "Hotkey > Switch Joyport"
 msgstr ""
 
 msgctxt "#30061"
-msgid "Hotkey > Reset"
+msgid "Hotkey > Toggle Turbo Fire"
 msgstr ""
 
 msgctxt "#30062"
-msgid "Hotkey > Hold Warp Mode"
+msgid "Hotkey > Toggle Save Disk"
 msgstr ""
 
 msgctxt "#30063"
-msgid "Hotkey > Toggle Aspect Ratio"
+msgid "Hotkey > Reset"
 msgstr ""
 
 msgctxt "#30064"
-msgid "Hotkey > Toggle Zoom Mode"
+msgid "Hotkey > Hold Warp Mode"
 msgstr ""
 
 msgctxt "#30065"
-msgid "Hotkey > Toggle Datasette Hotkeys"
+msgid "Hotkey > Toggle Aspect Ratio"
 msgstr ""
 
 msgctxt "#30066"
-msgid "Hotkey > Datasette Start"
+msgid "Hotkey > Toggle Zoom Mode"
 msgstr ""
 
 msgctxt "#30067"
-msgid "Hotkey > Datasette Stop"
+msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr ""
 
 msgctxt "#30068"
-msgid "Hotkey > Datasette Rewind"
+msgid "Hotkey > Datasette Start"
 msgstr ""
 
 msgctxt "#30069"
-msgid "Hotkey > Datasette Fast Forward"
+msgid "Hotkey > Datasette Stop"
 msgstr ""
 
 msgctxt "#30070"
-msgid "Hotkey > Datasette Reset"
+msgid "Hotkey > Datasette Rewind"
 msgstr ""
 
 msgctxt "#30071"
-msgid "RetroPad > Select"
+msgid "Hotkey > Datasette Fast Forward"
 msgstr ""
 
 msgctxt "#30072"
-msgid "RetroPad > Start"
+msgid "Hotkey > Datasette Reset"
 msgstr ""
 
 msgctxt "#30073"
-msgid "RetroPad > B"
+msgid "RetroPad > Up"
 msgstr ""
 
 msgctxt "#30074"
-msgid "RetroPad > A"
+msgid "RetroPad > Down"
 msgstr ""
 
 msgctxt "#30075"
-msgid "RetroPad > Y"
+msgid "RetroPad > Left"
 msgstr ""
 
 msgctxt "#30076"
-msgid "RetroPad > X"
+msgid "RetroPad > Right"
 msgstr ""
 
 msgctxt "#30077"
-msgid "RetroPad > L"
+msgid "RetroPad > A"
 msgstr ""
 
 msgctxt "#30078"
-msgid "RetroPad > R"
+msgid "RetroPad > B"
 msgstr ""
 
 msgctxt "#30079"
-msgid "RetroPad > L2"
+msgid "RetroPad > X"
 msgstr ""
 
 msgctxt "#30080"
-msgid "RetroPad > R2"
+msgid "RetroPad > Y"
 msgstr ""
 
 msgctxt "#30081"
-msgid "RetroPad > L3"
+msgid "RetroPad > Select"
 msgstr ""
 
 msgctxt "#30082"
-msgid "RetroPad > R3"
+msgid "RetroPad > Start"
 msgstr ""
 
 msgctxt "#30083"
-msgid "RetroPad > Left Analog > Up"
+msgid "RetroPad > L"
 msgstr ""
 
 msgctxt "#30084"
-msgid "RetroPad > Left Analog > Down"
+msgid "RetroPad > R"
 msgstr ""
 
 msgctxt "#30085"
-msgid "RetroPad > Left Analog > Left"
+msgid "RetroPad > L2"
 msgstr ""
 
 msgctxt "#30086"
-msgid "RetroPad > Left Analog > Right"
+msgid "RetroPad > R2"
 msgstr ""
 
 msgctxt "#30087"
-msgid "RetroPad > Right Analog > Up"
+msgid "RetroPad > L3"
 msgstr ""
 
 msgctxt "#30088"
-msgid "RetroPad > Right Analog > Down"
+msgid "RetroPad > R3"
 msgstr ""
 
 msgctxt "#30089"
-msgid "RetroPad > Right Analog > Left"
+msgid "RetroPad > Left Analog > Up"
 msgstr ""
 
 msgctxt "#30090"
-msgid "RetroPad > Right Analog > Right"
+msgid "RetroPad > Left Analog > Down"
 msgstr ""
 
 msgctxt "#30091"
-msgid "RetroPad > Turbo Fire"
+msgid "RetroPad > Left Analog > Left"
 msgstr ""
 
 msgctxt "#30092"
-msgid "RetroPad > Turbo Button"
+msgid "RetroPad > Left Analog > Right"
 msgstr ""
 
 msgctxt "#30093"
-msgid "RetroPad > Turbo Pulse"
+msgid "RetroPad > Right Analog > Up"
 msgstr ""
 
 msgctxt "#30094"
-msgid "Input > Userport Joystick Adapter"
+msgid "RetroPad > Right Analog > Down"
 msgstr ""
 
 msgctxt "#30095"
-msgid "RetroPad > Joystick Port"
+msgid "RetroPad > Right Analog > Left"
 msgstr ""
 
 msgctxt "#30096"
-msgid "RetroPad > Joystick Port Type"
+msgid "RetroPad > Right Analog > Right"
 msgstr ""
 
 msgctxt "#30097"
+msgid "RetroPad > Turbo Fire"
+msgstr ""
+
+msgctxt "#30098"
+msgid "RetroPad > Turbo Button"
+msgstr ""
+
+msgctxt "#30099"
+msgid "RetroPad > Turbo Pulse"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Input > Userport Joystick Adapter"
+msgstr ""
+
+msgctxt "#30101"
+msgid "RetroPad > Joystick Port"
+msgstr ""
+
+msgctxt "#30102"
+msgid "RetroPad > Joystick Port Type"
+msgstr ""
+
+msgctxt "#30103"
 msgid "RetroPad > Face Button Options"
 msgstr ""
