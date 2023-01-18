@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vice"
 		name="Commodore - C64 (VICE x64, fast)"
-		version="3.5.0.27"
+		version="3.5.0.28"
 		provider-name="VICE Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
