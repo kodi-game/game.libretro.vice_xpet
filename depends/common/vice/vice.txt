@@ -1,1 +1,1 @@
-vice https://github.com/libretro/vice-libretro/archive/099ddc95da816d78b22f361dce081e5e2019ad5a.tar.gz
+vice https://github.com/kodi-game/vice-libretro/archive/3934cf8b507a14376d99971ef364fc6c7386ba5e.tar.gz
