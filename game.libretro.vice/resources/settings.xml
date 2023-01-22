@@ -6,15 +6,15 @@
 		<setting label="30003" type="select" id="vice_jiffydos" values="disabled|enabled" default="disabled"/>
 		<setting label="30004" type="select" id="vice_read_vicerc" values="enabled|disabled" default="enabled"/>
 		<setting label="30005" type="select" id="vice_reset" values="autostart|soft|hard|freeze" default="autostart"/>
-		<setting label="30006" type="select" id="vice_cartridge" values="none" default="none"/>
-		<setting label="30007" type="select" id="vice_autostart" values="enabled|disabled|warp" default="enabled"/>
-		<setting label="30008" type="select" id="vice_autoloadwarp" values="disabled|enabled|mute|disk|disk_mute|tape|tape_mute" default="disabled"/>
-		<setting label="30009" type="select" id="vice_warp_boost" values="enabled|disabled" default="enabled"/>
-		<setting label="30010" type="select" id="vice_drive_true_emulation" values="enabled|disabled" default="enabled"/>
-		<setting label="30011" type="select" id="vice_virtual_device_traps" values="disabled|enabled" default="disabled"/>
-		<setting label="30012" type="select" id="vice_floppy_write_protection" values="disabled|enabled" default="disabled"/>
-		<setting label="30013" type="select" id="vice_easyflash_write_protection" values="disabled|enabled" default="disabled"/>
-		<setting label="30014" type="select" id="vice_work_disk" values="disabled|8_d64|9_d64|8_d71|9_d71|8_d81|9_d81|8_fs|9_fs" default="disabled"/>
+		<setting label="30006" type="select" id="vice_autoloadwarp" values="disabled|enabled|mute|disk|disk_mute|tape|tape_mute" default="disabled"/>
+		<setting label="30007" type="select" id="vice_warp_boost" values="enabled|disabled" default="enabled"/>
+		<setting label="30008" type="select" id="vice_autostart" values="enabled|disabled|warp" default="enabled"/>
+		<setting label="30009" type="select" id="vice_drive_true_emulation" values="enabled|disabled" default="enabled"/>
+		<setting label="30010" type="select" id="vice_virtual_device_traps" values="disabled|enabled" default="disabled"/>
+		<setting label="30011" type="select" id="vice_floppy_write_protection" values="disabled|enabled" default="disabled"/>
+		<setting label="30012" type="select" id="vice_easyflash_write_protection" values="disabled|enabled" default="disabled"/>
+		<setting label="30013" type="select" id="vice_work_disk" values="disabled|8_d64|9_d64|8_d71|9_d71|8_d81|9_d81|8_fs|9_fs" default="disabled"/>
+		<setting label="30014" type="select" id="vice_cartridge" values="none" default="none"/>
 		<setting label="30015" type="select" id="vice_video_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30016" type="select" id="vice_aspect_ratio" values="auto|pal|ntsc|raw" default="auto"/>
 		<setting label="30017" type="select" id="vice_crop" values="disabled|small|medium|maximum|auto|auto_disable|manual" default="disabled"/>
