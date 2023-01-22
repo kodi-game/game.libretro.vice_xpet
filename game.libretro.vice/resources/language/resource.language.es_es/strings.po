@@ -50,40 +50,40 @@ msgid "System > Reset Type"
 msgstr "Sistema > Tipo de Reinicio"
 
 msgctxt "#30006"
-msgid "Media > Cartridge"
-msgstr "Medios > Cartucho"
+msgid "Media > Automatic Load Warp"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Media > Autostart"
-msgstr "Medios > Inicio Automático"
+msgid "Media > Warp Boost"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Media > Automatic Load Warp"
-msgstr "Medios > Carga Automática Warp"
+msgid "Media > Autostart"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Media > Warp Boost"
-msgstr "Medios > Impulso Warp"
+msgid "Media > True Drive Emulation"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Media > True Drive Emulation"
-msgstr "Medios > Emulación de Unidad Real"
+msgid "Media > Virtual Device Traps"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Media > Virtual Device Traps"
-msgstr "Medios > Capturas de Dispositivos Virtuales"
+msgid "Media > Floppy Write Protection"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Media > Floppy Write Protection"
-msgstr "Medios > Protección Contra Escritura de Disquetes"
+msgid "Media > EasyFlash Write Protection"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Media > EasyFlash Write Protection"
-msgstr "Medios > Protección Contra Escritura de EasyFlash"
+msgid "Media > Global Work Disk"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Media > Global Work Disk"
-msgstr "Medios > Disco de Trabajo Global"
+msgid "Media > Cartridge"
+msgstr ""
 
 msgctxt "#30015"
 msgid "Show Video Options"
@@ -472,3 +472,39 @@ msgstr "RetroPad > Tipo de Puerto de Joystick"
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
 msgstr "RetroPad > Opciones Botones de Cara"
+
+#~ msgctxt "#30006"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Medios > Cartucho"
+
+#~ msgctxt "#30007"
+#~ msgid "Media > Autostart"
+#~ msgstr "Medios > Inicio Automático"
+
+#~ msgctxt "#30008"
+#~ msgid "Media > Automatic Load Warp"
+#~ msgstr "Medios > Carga Automática Warp"
+
+#~ msgctxt "#30009"
+#~ msgid "Media > Warp Boost"
+#~ msgstr "Medios > Impulso Warp"
+
+#~ msgctxt "#30010"
+#~ msgid "Media > True Drive Emulation"
+#~ msgstr "Medios > Emulación de Unidad Real"
+
+#~ msgctxt "#30011"
+#~ msgid "Media > Virtual Device Traps"
+#~ msgstr "Medios > Capturas de Dispositivos Virtuales"
+
+#~ msgctxt "#30012"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Medios > Protección Contra Escritura de Disquetes"
+
+#~ msgctxt "#30013"
+#~ msgid "Media > EasyFlash Write Protection"
+#~ msgstr "Medios > Protección Contra Escritura de EasyFlash"
+
+#~ msgctxt "#30014"
+#~ msgid "Media > Global Work Disk"
+#~ msgstr "Medios > Disco de Trabajo Global"

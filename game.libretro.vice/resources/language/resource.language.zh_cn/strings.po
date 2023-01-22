@@ -50,40 +50,40 @@ msgid "System > Reset Type"
 msgstr "系统 > 重置类型"
 
 msgctxt "#30006"
-msgid "Media > Cartridge"
-msgstr "介质 > 卡带"
+msgid "Media > Automatic Load Warp"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Media > Autostart"
-msgstr "介质 > 自动启动"
+msgid "Media > Warp Boost"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Media > Automatic Load Warp"
-msgstr "介质 > 自动加载 Warp"
+msgid "Media > Autostart"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Media > Warp Boost"
-msgstr "介质 > Warp 增强"
+msgid "Media > True Drive Emulation"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Media > True Drive Emulation"
-msgstr "介质 > 真实驱动器真"
+msgid "Media > Virtual Device Traps"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Media > Virtual Device Traps"
-msgstr "介质 > 虚拟设备陷阱"
+msgid "Media > Floppy Write Protection"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Media > Floppy Write Protection"
-msgstr "介质 > 软盘写保护"
+msgid "Media > EasyFlash Write Protection"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Media > EasyFlash Write Protection"
-msgstr "介质 > EasyFlash 写保护"
+msgid "Media > Global Work Disk"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Media > Global Work Disk"
-msgstr "介质 > 全局工作盘"
+msgid "Media > Cartridge"
+msgstr ""
 
 msgctxt "#30015"
 msgid "Show Video Options"
@@ -472,3 +472,39 @@ msgstr "RetroPad > 游戏杆端口类型"
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
 msgstr "Retropad > Face 按钮选项"
+
+#~ msgctxt "#30006"
+#~ msgid "Media > Cartridge"
+#~ msgstr "介质 > 卡带"
+
+#~ msgctxt "#30007"
+#~ msgid "Media > Autostart"
+#~ msgstr "介质 > 自动启动"
+
+#~ msgctxt "#30008"
+#~ msgid "Media > Automatic Load Warp"
+#~ msgstr "介质 > 自动加载 Warp"
+
+#~ msgctxt "#30009"
+#~ msgid "Media > Warp Boost"
+#~ msgstr "介质 > Warp 增强"
+
+#~ msgctxt "#30010"
+#~ msgid "Media > True Drive Emulation"
+#~ msgstr "介质 > 真实驱动器真"
+
+#~ msgctxt "#30011"
+#~ msgid "Media > Virtual Device Traps"
+#~ msgstr "介质 > 虚拟设备陷阱"
+
+#~ msgctxt "#30012"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "介质 > 软盘写保护"
+
+#~ msgctxt "#30013"
+#~ msgid "Media > EasyFlash Write Protection"
+#~ msgstr "介质 > EasyFlash 写保护"
+
+#~ msgctxt "#30014"
+#~ msgid "Media > Global Work Disk"
+#~ msgstr "介质 > 全局工作盘"

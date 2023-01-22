@@ -50,39 +50,39 @@ msgid "System > Reset Type"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Media > Cartridge"
-msgstr "Mediu > Cartuchu"
-
-msgctxt "#30007"
-msgid "Media > Autostart"
-msgstr "Mediu > Aniciu automáticu"
-
-msgctxt "#30008"
 msgid "Media > Automatic Load Warp"
 msgstr ""
 
-msgctxt "#30009"
+msgctxt "#30007"
 msgid "Media > Warp Boost"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30008"
+msgid "Media > Autostart"
+msgstr ""
+
+msgctxt "#30009"
 msgid "Media > True Drive Emulation"
 msgstr ""
 
-msgctxt "#30011"
+msgctxt "#30010"
 msgid "Media > Virtual Device Traps"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30011"
 msgid "Media > Floppy Write Protection"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30012"
 msgid "Media > EasyFlash Write Protection"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30013"
 msgid "Media > Global Work Disk"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Media > Cartridge"
 msgstr ""
 
 msgctxt "#30015"
@@ -472,6 +472,14 @@ msgstr ""
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
 msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Mediu > Cartuchu"
+
+#~ msgctxt "#30007"
+#~ msgid "Media > Autostart"
+#~ msgstr "Mediu > Aniciu automáticu"
 
 #~ msgctxt "#30017"
 #~ msgid "Video > Zoom Mode"

@@ -50,40 +50,40 @@ msgid "System > Reset Type"
 msgstr "Система > Перезапустить ввод"
 
 msgctxt "#30006"
-msgid "Media > Cartridge"
-msgstr "Медиа > Картридж"
+msgid "Media > Automatic Load Warp"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Media > Autostart"
-msgstr "Медиа > Автозапуск"
+msgid "Media > Warp Boost"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Media > Automatic Load Warp"
-msgstr "Медиа > Автоматический ускоритель загрузки (Load Warp)"
+msgid "Media > Autostart"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Media > Warp Boost"
-msgstr "Медиа > Ускоритель загрузки (Warp Boost)"
+msgid "Media > True Drive Emulation"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Media > True Drive Emulation"
-msgstr "Медиа > Эмуляция реального накопителя"
+msgid "Media > Virtual Device Traps"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Media > Virtual Device Traps"
-msgstr "Медиа > Ловушки для виртуальных устройств (trap-n-emulate)"
+msgid "Media > Floppy Write Protection"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Media > Floppy Write Protection"
-msgstr "Медиа > Защита записи дискеты"
+msgid "Media > EasyFlash Write Protection"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Media > EasyFlash Write Protection"
-msgstr "Медиа > Защита записи для EasyFlash"
+msgid "Media > Global Work Disk"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Media > Global Work Disk"
-msgstr "Медиа > Глобальный рабочий диск"
+msgid "Media > Cartridge"
+msgstr ""
 
 msgctxt "#30015"
 msgid "Show Video Options"
@@ -472,6 +472,42 @@ msgstr ""
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
 msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Медиа > Картридж"
+
+#~ msgctxt "#30007"
+#~ msgid "Media > Autostart"
+#~ msgstr "Медиа > Автозапуск"
+
+#~ msgctxt "#30008"
+#~ msgid "Media > Automatic Load Warp"
+#~ msgstr "Медиа > Автоматический ускоритель загрузки (Load Warp)"
+
+#~ msgctxt "#30009"
+#~ msgid "Media > Warp Boost"
+#~ msgstr "Медиа > Ускоритель загрузки (Warp Boost)"
+
+#~ msgctxt "#30010"
+#~ msgid "Media > True Drive Emulation"
+#~ msgstr "Медиа > Эмуляция реального накопителя"
+
+#~ msgctxt "#30011"
+#~ msgid "Media > Virtual Device Traps"
+#~ msgstr "Медиа > Ловушки для виртуальных устройств (trap-n-emulate)"
+
+#~ msgctxt "#30012"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Медиа > Защита записи дискеты"
+
+#~ msgctxt "#30013"
+#~ msgid "Media > EasyFlash Write Protection"
+#~ msgstr "Медиа > Защита записи для EasyFlash"
+
+#~ msgctxt "#30014"
+#~ msgid "Media > Global Work Disk"
+#~ msgstr "Медиа > Глобальный рабочий диск"
 
 #~ msgctxt "#30017"
 #~ msgid "Video > Zoom Mode"
