@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2022-11-05 11:15+0000\n"
+"PO-Revision-Date: 2023-01-22 16:04+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15.1\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - C64 (VICE x64, fast) 3.5"
@@ -51,39 +51,39 @@ msgstr "Система > Перезапустить ввод"
 
 msgctxt "#30006"
 msgid "Media > Automatic Load Warp"
-msgstr ""
+msgstr "Медиа > Автоматический ускоритель загрузки (Load Warp)"
 
 msgctxt "#30007"
 msgid "Media > Warp Boost"
-msgstr ""
+msgstr "Медиа > Ускоритель загрузки (Warp Boost)"
 
 msgctxt "#30008"
 msgid "Media > Autostart"
-msgstr ""
+msgstr "Медиа > Автозапуск"
 
 msgctxt "#30009"
 msgid "Media > True Drive Emulation"
-msgstr ""
+msgstr "Медиа > Эмуляция реального накопителя"
 
 msgctxt "#30010"
 msgid "Media > Virtual Device Traps"
-msgstr ""
+msgstr "Медиа > Ловушки для виртуальных устройств (trap-n-emulate)"
 
 msgctxt "#30011"
 msgid "Media > Floppy Write Protection"
-msgstr ""
+msgstr "Медиа > Защита записи дискеты"
 
 msgctxt "#30012"
 msgid "Media > EasyFlash Write Protection"
-msgstr ""
+msgstr "Медиа > Защита записи для EasyFlash"
 
 msgctxt "#30013"
 msgid "Media > Global Work Disk"
-msgstr ""
+msgstr "Медиа > Глобальный рабочий диск"
 
 msgctxt "#30014"
 msgid "Media > Cartridge"
-msgstr ""
+msgstr "Медиа > Картридж"
 
 msgctxt "#30015"
 msgid "Show Video Options"
@@ -111,55 +111,55 @@ msgstr "Видео > урезанный режим масштабировани�
 
 msgctxt "#30021"
 msgid "Video > Manual Crop Top"
-msgstr ""
+msgstr "Видео > Ручная обрезка сверху"
 
 msgctxt "#30022"
 msgid "Video > Manual Crop Bottom"
-msgstr ""
+msgstr "Видео > Ручная обрезка снизу"
 
 msgctxt "#30023"
 msgid "Video > Manual Crop Left"
-msgstr ""
+msgstr "Видео > Ручная обрезка слева"
 
 msgctxt "#30024"
 msgid "Video > Manual Crop Right"
-msgstr ""
+msgstr "Видео > Ручная обрезка справа"
 
 msgctxt "#30025"
 msgid "Video > VIC-II Filter"
-msgstr ""
+msgstr "Видео > VIC-II фильтр"
 
 msgctxt "#30026"
 msgid "Video > VIC-II Filter Oddline Phase"
-msgstr ""
+msgstr "Видео > VIC-II фильтр, Oddline фаза"
 
 msgctxt "#30027"
 msgid "Video > VIC-II Filter Oddline Offset"
-msgstr ""
+msgstr "Видео > VIC-II фильтр, Oddline офсет"
 
 msgctxt "#30028"
 msgid "Video > VIC-II Color Palette"
-msgstr ""
+msgstr "Видео > VIC-II палитра цвета"
 
 msgctxt "#30029"
 msgid "Video > VIC-II Color Gamma"
-msgstr ""
+msgstr "Видео > VIC-II гамма цвета"
 
 msgctxt "#30030"
 msgid "Video > VIC-II Color Brightness"
-msgstr ""
+msgstr "Видео > VIC-II яркость цвета"
 
 msgctxt "#30031"
 msgid "Video > VIC-II Color Contrast"
-msgstr ""
+msgstr "Видео > VIC-II контраст цвета"
 
 msgctxt "#30032"
 msgid "Video > VIC-II Color Saturation"
-msgstr ""
+msgstr "Видео > VIC-II насыщенность цвета"
 
 msgctxt "#30033"
 msgid "Video > VIC-II Color Tint"
-msgstr ""
+msgstr "Видео > VIC-II оттенок цвета"
 
 msgctxt "#30034"
 msgid "Video > Color Depth"
@@ -187,7 +187,7 @@ msgstr "OSD > Сообщения строки состояния"
 
 msgctxt "#30040"
 msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr ""
+msgstr "OSD > Световое перо/цвет указателя прицела"
 
 msgctxt "#30041"
 msgid "Show Audio Options"
@@ -195,23 +195,23 @@ msgstr "Показать настройки аудио"
 
 msgctxt "#30042"
 msgid "Audio > Drive Sound Emulation"
-msgstr ""
+msgstr "Аудио > Эмуляция звука дисковода"
 
 msgctxt "#30043"
 msgid "Audio > Datasette Sound"
-msgstr ""
+msgstr "Аудио > Звук Datasette"
 
 msgctxt "#30044"
 msgid "Audio > VIC-II Audio Leak Emulation"
-msgstr ""
+msgstr "Аудио > VIC-II эмуляция Audio Leak"
 
 msgctxt "#30045"
 msgid "Audio > SID Engine"
-msgstr ""
+msgstr "Аудио > Движок SID"
 
 msgctxt "#30046"
 msgid "Audio > SID Model"
-msgstr ""
+msgstr "Аудио > Модель SID"
 
 msgctxt "#30047"
 msgid "Audio > SID Extra"

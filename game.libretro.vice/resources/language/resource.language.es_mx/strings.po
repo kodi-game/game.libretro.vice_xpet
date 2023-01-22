@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2022-08-06 09:14+0000\n"
+"PO-Revision-Date: 2023-01-22 16:04+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Spanish (Mexico) <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice/es_mx/>\n"
 "Language: es_mx\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13\n"
+"X-Generator: Weblate 4.15.1\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - C64 (VICE x64, fast) 3.5"
@@ -51,7 +51,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Media > Automatic Load Warp"
-msgstr ""
+msgstr "Medios > Carga automática de Warp"
 
 msgctxt "#30007"
 msgid "Media > Warp Boost"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Media > Autostart"
-msgstr ""
+msgstr "Medios > Autoinicio"
 
 msgctxt "#30009"
 msgid "Media > True Drive Emulation"
@@ -83,7 +83,7 @@ msgstr "Medios > Disco de trabajo global"
 
 msgctxt "#30014"
 msgid "Media > Cartridge"
-msgstr ""
+msgstr "Medios > Cartucho"
 
 msgctxt "#30015"
 msgid "Show Video Options"
@@ -107,27 +107,27 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Video > Zoom Mode Crop"
-msgstr ""
+msgstr "Video > Modo de acercamiento recorte"
 
 msgctxt "#30021"
 msgid "Video > Manual Crop Top"
-msgstr ""
+msgstr "Video > Recorte manual superior"
 
 msgctxt "#30022"
 msgid "Video > Manual Crop Bottom"
-msgstr ""
+msgstr "Video > Recorte manual inferior"
 
 msgctxt "#30023"
 msgid "Video > Manual Crop Left"
-msgstr ""
+msgstr "Video > Recorte manual izquierdo"
 
 msgctxt "#30024"
 msgid "Video > Manual Crop Right"
-msgstr ""
+msgstr "Video > Recorte manual derecho"
 
 msgctxt "#30025"
 msgid "Video > VIC-II Filter"
-msgstr ""
+msgstr "Video > Filtro VIC-II"
 
 msgctxt "#30026"
 msgid "Video > VIC-II Filter Oddline Phase"
@@ -191,59 +191,59 @@ msgstr ""
 
 msgctxt "#30041"
 msgid "Show Audio Options"
-msgstr ""
+msgstr "Mostrar opciones de audio"
 
 msgctxt "#30042"
 msgid "Audio > Drive Sound Emulation"
-msgstr ""
+msgstr "Audio > Emulación de sonido de unidad"
 
 msgctxt "#30043"
 msgid "Audio > Datasette Sound"
-msgstr ""
+msgstr "Audio > Sonido de datassete"
 
 msgctxt "#30044"
 msgid "Audio > VIC-II Audio Leak Emulation"
-msgstr ""
+msgstr "Audio > Emulación de distorsión de audio VIC-II"
 
 msgctxt "#30045"
 msgid "Audio > SID Engine"
-msgstr ""
+msgstr "Audio > Motor SID"
 
 msgctxt "#30046"
 msgid "Audio > SID Model"
-msgstr ""
+msgstr "Audio > Modelo de SID"
 
 msgctxt "#30047"
 msgid "Audio > SID Extra"
-msgstr ""
+msgstr "Audio > Extra SID"
 
 msgctxt "#30048"
 msgid "Audio > ReSID Sampling"
-msgstr ""
+msgstr "Audio > Muestreo ReSID"
 
 msgctxt "#30049"
 msgid "Audio > ReSID Filter Passband"
-msgstr ""
+msgstr "Audio > Paso de banda de filtro ReSID"
 
 msgctxt "#30050"
 msgid "Audio > ReSID Filter Gain"
-msgstr ""
+msgstr "Audio > Ganancia de filtro ReSID"
 
 msgctxt "#30051"
 msgid "Audio > ReSID Filter 6581 Bias"
-msgstr ""
+msgstr "Audio > Filtro ReSID 6581 Bias"
 
 msgctxt "#30052"
 msgid "Audio > ReSID Filter 8580 Bias"
-msgstr ""
+msgstr "Audio > Filtro ReSID 8580 Bias"
 
 msgctxt "#30053"
 msgid "Audio > SFX Sound Expander"
-msgstr ""
+msgstr "Audio > Expansión de efectos de sonido"
 
 msgctxt "#30054"
 msgid "Audio > Sample Rate"
-msgstr ""
+msgstr "Audio > Tasa de muestreo"
 
 msgctxt "#30055"
 msgid "Input > Analog Stick Mouse"
@@ -267,11 +267,11 @@ msgstr "Entrada > Velocidad de ratón"
 
 msgctxt "#30060"
 msgid "Input > Keyboard Pass-through"
-msgstr ""
+msgstr "Entrada > Entrada directa de teclado"
 
 msgctxt "#30061"
 msgid "Input > Datasette Hotkeys"
-msgstr ""
+msgstr "Entrada > Atajos de teclado de datassete"
 
 msgctxt "#30062"
 msgid "Input > Keyrah Keypad Mappings"
@@ -279,43 +279,43 @@ msgstr "Entrada > Asignaciones de teclado Keyrah"
 
 msgctxt "#30063"
 msgid "Input > Keyboard Keymap"
-msgstr ""
+msgstr "Entrada > Distribución de teclado"
 
 msgctxt "#30064"
 msgid "Show Mapping Options"
-msgstr ""
+msgstr "Mostrar opciones de atajos de teclado"
 
 msgctxt "#30065"
 msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr ""
+msgstr "Atajos > Alternar teclado virtual"
 
 msgctxt "#30066"
 msgid "Hotkey > Toggle Statusbar"
-msgstr ""
+msgstr "Atajos > Alternar barra de estado"
 
 msgctxt "#30067"
 msgid "Hotkey > Switch Joyport"
-msgstr ""
+msgstr "Atajos > Alternar Joyport"
 
 msgctxt "#30068"
 msgid "Hotkey > Toggle Turbo Fire"
-msgstr ""
+msgstr "Atajos > Alternar Turbo Fire"
 
 msgctxt "#30069"
 msgid "Hotkey > Toggle Save Disk"
-msgstr ""
+msgstr "Atajos > Alternar guardado de disco"
 
 msgctxt "#30070"
 msgid "Hotkey > Reset"
-msgstr ""
+msgstr "Atajos > Reiniciar"
 
 msgctxt "#30071"
 msgid "Hotkey > Hold Warp Mode"
-msgstr ""
+msgstr "Atajos > Mantener modo Warp"
 
 msgctxt "#30072"
 msgid "Hotkey > Toggle Aspect Ratio"
-msgstr ""
+msgstr "Atajos > Alternar relación de aspecto"
 
 msgctxt "#30073"
 msgid "Hotkey > Toggle Crop"
@@ -323,11 +323,11 @@ msgstr ""
 
 msgctxt "#30074"
 msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
+msgstr "Atajos > Alternar modo de acercamiento"
 
 msgctxt "#30075"
 msgid "Hotkey > Toggle Datasette Hotkeys"
-msgstr ""
+msgstr "Atajos > Alternar atajos de teclado de datassete"
 
 msgctxt "#30076"
 msgid "Hotkey > Datasette PLAY"
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "Hotkey > Datasette STOP"
-msgstr ""
+msgstr "Atajos > Detener datassete"
 
 msgctxt "#30078"
 msgid "Hotkey > Datasette REWIND"
@@ -347,131 +347,131 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "Hotkey > Datasette RESET"
-msgstr ""
+msgstr "Atajos > Reiniciar datassete"
 
 msgctxt "#30081"
 msgid "RetroPad > Up"
-msgstr ""
+msgstr "RetroPad > Arriba"
 
 msgctxt "#30082"
 msgid "RetroPad > Down"
-msgstr ""
+msgstr "RetroPad > Abajo"
 
 msgctxt "#30083"
 msgid "RetroPad > Left"
-msgstr ""
+msgstr "RetroPad > Izquierda"
 
 msgctxt "#30084"
 msgid "RetroPad > Right"
-msgstr ""
+msgstr "RetroPad > Derecha"
 
 msgctxt "#30085"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30086"
 msgid "RetroPad > B"
-msgstr ""
+msgstr "RetroPad > B"
 
 msgctxt "#30087"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30088"
 msgid "RetroPad > Y"
-msgstr ""
+msgstr "RetroPad > Y"
 
 msgctxt "#30089"
 msgid "RetroPad > Select"
-msgstr ""
+msgstr "RetroPad > Select"
 
 msgctxt "#30090"
 msgid "RetroPad > Start"
-msgstr ""
+msgstr "RetroPad > Start"
 
 msgctxt "#30091"
 msgid "RetroPad > L"
-msgstr ""
+msgstr "RetroPad > L"
 
 msgctxt "#30092"
 msgid "RetroPad > R"
-msgstr ""
+msgstr "RetroPad > R"
 
 msgctxt "#30093"
 msgid "RetroPad > L2"
-msgstr ""
+msgstr "RetroPad > L2"
 
 msgctxt "#30094"
 msgid "RetroPad > R2"
-msgstr ""
+msgstr "RetroPad > R2"
 
 msgctxt "#30095"
 msgid "RetroPad > L3"
-msgstr ""
+msgstr "RetroPad > L3"
 
 msgctxt "#30096"
 msgid "RetroPad > R3"
-msgstr ""
+msgstr "RetroPad > R3"
 
 msgctxt "#30097"
 msgid "RetroPad > Left Analog > Up"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Arriba"
 
 msgctxt "#30098"
 msgid "RetroPad > Left Analog > Down"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Abajo"
 
 msgctxt "#30099"
 msgid "RetroPad > Left Analog > Left"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Izquierda"
 
 msgctxt "#30100"
 msgid "RetroPad > Left Analog > Right"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Derecha"
 
 msgctxt "#30101"
 msgid "RetroPad > Right Analog > Up"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Arriba"
 
 msgctxt "#30102"
 msgid "RetroPad > Right Analog > Down"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Abajo"
 
 msgctxt "#30103"
 msgid "RetroPad > Right Analog > Left"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Izquierda"
 
 msgctxt "#30104"
 msgid "RetroPad > Right Analog > Right"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Derecha"
 
 msgctxt "#30105"
 msgid "RetroPad > Turbo Fire"
-msgstr ""
+msgstr "RetroPad > Turbo Fire"
 
 msgctxt "#30106"
 msgid "RetroPad > Turbo Button"
-msgstr ""
+msgstr "RetroPad > Botón Turbo"
 
 msgctxt "#30107"
 msgid "RetroPad > Turbo Pulse"
-msgstr ""
+msgstr "RetroPad > Turbo Pulso"
 
 msgctxt "#30108"
 msgid "Input > Userport Joystick Adapter"
-msgstr ""
+msgstr "Entrada > Puerto de usuario del adaptador de joystick"
 
 msgctxt "#30109"
 msgid "RetroPad > Joystick Port"
-msgstr ""
+msgstr "Entrada > Puerto de joystick"
 
 msgctxt "#30110"
 msgid "RetroPad > Joystick Port Type"
-msgstr ""
+msgstr "Entrada > Tipo de puerto de joystick"
 
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
-msgstr ""
+msgstr "Entrada > Opciones de caras de botones"
 
 #~ msgctxt "#30006"
 #~ msgid "Media > Cartridge"
