@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice)
+[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_xpet.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_xpet)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_xpet?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-xpet)
 
-# Commodore - C64 (VICE x64, fast)
+# Commodore - PET (VICE xpet)
 
 ### Description
 
@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice/resources/icon.png)
+![Commodore - PET (VICE xpet) icon](game.libretro.vice_xpet/resources/icon.png)
 
 ### Fanart
 
