@@ -1,1 +1,1 @@
-vice_xpet https://github.com/kodi-game/vice-libretro/archive/3934cf8b507a14376d99971ef364fc6c7386ba5e.tar.gz
+vice_xpet https://github.com/kodi-game/vice-libretro/archive/5c8547e7e207ff74ff31b693b13d4d646fc6eef9.tar.gz

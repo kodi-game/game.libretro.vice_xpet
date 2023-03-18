@@ -73,11 +73,11 @@ msgid "Video > CRTC Filter"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Video > CRTC Filter Oddline Phase"
+msgid "Video > CRTC Filter Oddline Offset"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Video > CRTC Filter Oddline Offset"
+msgid "Video > CRTC Filter Oddline Phase"
 msgstr ""
 
 msgctxt "#30014"
