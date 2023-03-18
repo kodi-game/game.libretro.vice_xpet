@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Commodore - C64 (VICE x64, fast) 3.5"
+msgid "Commodore - PET (VICE xpet)"
 msgstr ""
 
 msgctxt "Addon Description"

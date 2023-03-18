@@ -24,7 +24,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<summary lang="en_GB">Commodore - C64 (VICE x64, fast) 3.5</summary>
+		<summary lang="en_GB">Commodore - PET (VICE xpet)</summary>
 		<description lang="da_DK">VICE står for Versatile Commodore Emulator. Den nuværende version emulerer C64, C64DTV, C128, VIC20, praktisk talt alle PET-modeller, PLUS4 og CBM-II (aka C610/C510).</description>
 		<description lang="de_DE">VICE steht für den Versatile Commodore Emulator. Die aktuelle Version emuliert den C64, den C64DTV, den C128, den VIC20, praktisch alle PET-Modelle, den PLUS4 und den CBM-II (aka C610/C510).</description>
 		<description lang="en_GB">VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).</description>
