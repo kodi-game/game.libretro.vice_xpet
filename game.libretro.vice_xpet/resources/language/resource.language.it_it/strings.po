@@ -34,444 +34,512 @@ msgid "System > Model"
 msgstr "Sistema > Modello"
 
 msgctxt "#30002"
-msgid "System > RAM Expansion Unit"
-msgstr "Sistema > Unità di espansione RAM"
+msgid "System > Read 'vicerc'"
+msgstr ""
 
 msgctxt "#30003"
-msgid "System > JiffyDOS"
-msgstr "Sistema > JiffyDOS"
+msgid "System > Reset Type"
+msgstr ""
 
 msgctxt "#30004"
-msgid "System > Read 'vicerc'"
-msgstr "Sistema > Leggi 'vicerc'"
-
-msgctxt "#30005"
-msgid "System > Reset Type"
-msgstr "Sistema > Reimposta tipo"
-
-msgctxt "#30006"
 msgid "Media > Automatic Load Warp"
 msgstr ""
 
-msgctxt "#30007"
-msgid "Media > Warp Boost"
-msgstr ""
-
-msgctxt "#30008"
+msgctxt "#30005"
 msgid "Media > Autostart"
 msgstr ""
 
-msgctxt "#30009"
+msgctxt "#30006"
 msgid "Media > True Drive Emulation"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30007"
 msgid "Media > Virtual Device Traps"
 msgstr ""
 
-msgctxt "#30011"
+msgctxt "#30008"
 msgid "Media > Floppy Write Protection"
-msgstr "Supporti > Protezione da scrittura floppy"
-
-msgctxt "#30012"
-msgid "Media > EasyFlash Write Protection"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30009"
 msgid "Media > Global Work Disk"
 msgstr ""
 
+msgctxt "#30010"
+msgid "Show Video Options"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Video > CRTC Filter"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Video > CRTC Filter Oddline Offset"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Video > CRTC Filter Oddline Phase"
+msgstr ""
+
 msgctxt "#30014"
-msgid "Media > Cartridge"
-msgstr "Supporti > Cartuccia"
+msgid "Video > CRTC Color Palette"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Show Video Options"
-msgstr "Mostra opzioni video"
+msgid "Video > Color Depth"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "Video > Proporzioni pixel"
+msgid "OSD > Virtual KBD Theme"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Video > Crop"
-msgstr "Video > Proporzioni pixel"
+msgid "OSD > Virtual KBD Transparency"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Video > Zoom Mode"
-msgstr "Video > Modalità zoom"
+msgid "OSD > Virtual KBD Dimming"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Video > Crop Mode"
-msgstr "Video > Modalità ritaglio"
+msgid "OSD > Statusbar Mode"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Video > Zoom Mode Crop"
-msgstr "Video > Ritaglio modalità zoom"
+msgid "OSD > Statusbar Messages"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Video > Manual Crop Top"
-msgstr ""
-
-msgctxt "#30022"
-msgid "Video > Manual Crop Bottom"
-msgstr ""
-
-msgctxt "#30023"
-msgid "Video > Manual Crop Left"
-msgstr ""
-
-msgctxt "#30024"
-msgid "Video > Manual Crop Right"
-msgstr ""
-
-msgctxt "#30025"
-msgid "Video > VIC-II Filter"
-msgstr ""
-
-msgctxt "#30026"
-msgid "Video > VIC-II Filter Oddline Phase"
-msgstr ""
-
-msgctxt "#30027"
-msgid "Video > VIC-II Filter Oddline Offset"
-msgstr ""
-
-msgctxt "#30028"
-msgid "Video > VIC-II Color Palette"
-msgstr ""
-
-msgctxt "#30029"
-msgid "Video > VIC-II Color Gamma"
-msgstr ""
-
-msgctxt "#30030"
-msgid "Video > VIC-II Color Brightness"
-msgstr ""
-
-msgctxt "#30031"
-msgid "Video > VIC-II Color Contrast"
-msgstr ""
-
-msgctxt "#30032"
-msgid "Video > VIC-II Color Saturation"
-msgstr ""
-
-msgctxt "#30033"
-msgid "Video > VIC-II Color Tint"
-msgstr ""
-
-msgctxt "#30034"
-msgid "Video > Color Depth"
-msgstr "Video > Profondità colore"
-
-msgctxt "#30035"
-msgid "OSD > Virtual KBD Theme"
-msgstr "OSD > Tema KBD virtuale"
-
-msgctxt "#30036"
-msgid "OSD > Virtual KBD Transparency"
-msgstr "OSD > Trasparenza KBD virtuale"
-
-msgctxt "#30037"
-msgid "OSD > Virtual KBD Dimming"
-msgstr "OSD > Dimmerazione KBD virtuale"
-
-msgctxt "#30038"
-msgid "OSD > Statusbar Mode"
-msgstr "OSD > Modalità barra di stato"
-
-msgctxt "#30039"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Messaggi della barra di stato"
-
-msgctxt "#30040"
 msgid "OSD > Light Pen/Gun Pointer Color"
 msgstr ""
 
-msgctxt "#30041"
+msgctxt "#30022"
 msgid "Show Audio Options"
-msgstr "Mostra opzioni audio"
+msgstr ""
 
-msgctxt "#30042"
+msgctxt "#30023"
 msgid "Audio > Drive Sound Emulation"
 msgstr ""
 
-msgctxt "#30043"
+msgctxt "#30024"
 msgid "Audio > Datasette Sound"
 msgstr ""
 
-msgctxt "#30044"
-msgid "Audio > VIC-II Audio Leak Emulation"
-msgstr ""
-
-msgctxt "#30045"
-msgid "Audio > SID Engine"
-msgstr ""
-
-msgctxt "#30046"
-msgid "Audio > SID Model"
-msgstr ""
-
-msgctxt "#30047"
-msgid "Audio > SID Extra"
-msgstr ""
-
-msgctxt "#30048"
-msgid "Audio > ReSID Sampling"
-msgstr ""
-
-msgctxt "#30049"
-msgid "Audio > ReSID Filter Passband"
-msgstr ""
-
-msgctxt "#30050"
-msgid "Audio > ReSID Filter Gain"
-msgstr ""
-
-msgctxt "#30051"
-msgid "Audio > ReSID Filter 6581 Bias"
-msgstr ""
-
-msgctxt "#30052"
-msgid "Audio > ReSID Filter 8580 Bias"
-msgstr ""
-
-msgctxt "#30053"
-msgid "Audio > SFX Sound Expander"
-msgstr ""
-
-msgctxt "#30054"
+msgctxt "#30025"
 msgid "Audio > Sample Rate"
 msgstr ""
 
-msgctxt "#30055"
-msgid "Input > Analog Stick Mouse"
-msgstr "Input > Mouse analogico con levetta"
-
-msgctxt "#30056"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Input > Zona morta del mouse analogico con levetta"
-
-msgctxt "#30057"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "Input > Velocità della levetta del mouse analogico"
-
-msgctxt "#30058"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "Input > Velocità del mouse del D-Pad"
-
-msgctxt "#30059"
-msgid "Input > Mouse Speed"
-msgstr "Input > Velocità del mouse"
-
-msgctxt "#30060"
+msgctxt "#30026"
 msgid "Input > Keyboard Pass-through"
-msgstr "Input > Pass-through tastiera"
+msgstr ""
 
-msgctxt "#30061"
+msgctxt "#30027"
 msgid "Input > Datasette Hotkeys"
 msgstr ""
 
-msgctxt "#30062"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "Input > Mappature tastiera Keyrah"
-
-msgctxt "#30063"
-msgid "Input > Keyboard Keymap"
-msgstr ""
-
-msgctxt "#30064"
+msgctxt "#30028"
 msgid "Show Mapping Options"
-msgstr "Mostra opzioni di mappatura"
-
-msgctxt "#30065"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Tasto di scelta rapida > Attiva/disattiva tastiera virtuale"
-
-msgctxt "#30066"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Tasto di scelta rapida > Attiva/disattiva barra di stato"
-
-msgctxt "#30067"
-msgid "Hotkey > Switch Joyport"
 msgstr ""
 
-msgctxt "#30068"
+msgctxt "#30029"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Hotkey > Toggle Statusbar"
+msgstr ""
+
+msgctxt "#30031"
 msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Tasto di scelta rapida> Attiva/disattiva Turbo Fire"
+msgstr ""
 
-msgctxt "#30069"
+msgctxt "#30032"
 msgid "Hotkey > Toggle Save Disk"
-msgstr "Tasto di scelta rapida> Attiva/disattiva salva disco"
+msgstr ""
 
-msgctxt "#30070"
+msgctxt "#30033"
 msgid "Hotkey > Reset"
-msgstr "Tasto di scelta rapida > Reset"
+msgstr ""
 
-msgctxt "#30071"
+msgctxt "#30034"
 msgid "Hotkey > Hold Warp Mode"
 msgstr ""
 
-msgctxt "#30072"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "Tasto di scelta rapida > Attiva/disattiva proporzioni"
-
-msgctxt "#30073"
-msgid "Hotkey > Toggle Crop"
-msgstr "Tasto di scelta rapida > Attiva/disattiva ritaglio"
-
-msgctxt "#30074"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Tasto di scelta rapida > Attiva/disattiva modalità zoom"
-
-msgctxt "#30075"
+msgctxt "#30035"
 msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr ""
 
-msgctxt "#30076"
+msgctxt "#30036"
 msgid "Hotkey > Datasette PLAY"
 msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30037"
 msgid "Hotkey > Datasette STOP"
 msgstr ""
 
-msgctxt "#30078"
+msgctxt "#30038"
 msgid "Hotkey > Datasette REWIND"
 msgstr ""
 
-msgctxt "#30079"
+msgctxt "#30039"
 msgid "Hotkey > Datasette F.FWD"
 msgstr ""
 
-msgctxt "#30080"
+msgctxt "#30040"
 msgid "Hotkey > Datasette RESET"
 msgstr ""
 
-msgctxt "#30081"
+msgctxt "#30041"
 msgid "RetroPad > Up"
-msgstr "RetroPad > Su"
+msgstr ""
 
-msgctxt "#30082"
+msgctxt "#30042"
 msgid "RetroPad > Down"
-msgstr "RetroPad > Giù"
+msgstr ""
 
-msgctxt "#30083"
+msgctxt "#30043"
 msgid "RetroPad > Left"
-msgstr "RetroPad > Sinistra"
+msgstr ""
 
-msgctxt "#30084"
+msgctxt "#30044"
 msgid "RetroPad > Right"
-msgstr "RetroPad > Destra"
+msgstr ""
 
-msgctxt "#30085"
+msgctxt "#30045"
 msgid "RetroPad > A"
-msgstr "RetroPad > A"
+msgstr ""
 
-msgctxt "#30086"
+msgctxt "#30046"
 msgid "RetroPad > B"
-msgstr "RetroPad > B"
+msgstr ""
 
-msgctxt "#30087"
+msgctxt "#30047"
 msgid "RetroPad > X"
-msgstr "RetroPad > X"
+msgstr ""
 
-msgctxt "#30088"
+msgctxt "#30048"
 msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
+msgstr ""
 
-msgctxt "#30089"
+msgctxt "#30049"
 msgid "RetroPad > Select"
-msgstr "RetroPad > Seleziona"
+msgstr ""
 
-msgctxt "#30090"
+msgctxt "#30050"
 msgid "RetroPad > Start"
-msgstr "RetroPad > Avvia"
+msgstr ""
 
-msgctxt "#30091"
+msgctxt "#30051"
 msgid "RetroPad > L"
-msgstr "RetroPad > L"
+msgstr ""
 
-msgctxt "#30092"
+msgctxt "#30052"
 msgid "RetroPad > R"
-msgstr "RetroPad > R"
+msgstr ""
 
-msgctxt "#30093"
+msgctxt "#30053"
 msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
+msgstr ""
 
-msgctxt "#30094"
+msgctxt "#30054"
 msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
+msgstr ""
 
-msgctxt "#30095"
+msgctxt "#30055"
 msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
+msgstr ""
 
-msgctxt "#30096"
+msgctxt "#30056"
 msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
+msgstr ""
 
-msgctxt "#30097"
+msgctxt "#30057"
 msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Analogico sinistro > Su"
+msgstr ""
 
-msgctxt "#30098"
+msgctxt "#30058"
 msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Analogico sinistro > Giù"
+msgstr ""
 
-msgctxt "#30099"
+msgctxt "#30059"
 msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Analogico sinistro > Sinistro"
+msgstr ""
 
-msgctxt "#30100"
+msgctxt "#30060"
 msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Analogico sinistro > Destro"
+msgstr ""
 
-msgctxt "#30101"
+msgctxt "#30061"
 msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Analogico destro > Su"
+msgstr ""
 
-msgctxt "#30102"
+msgctxt "#30062"
 msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Analogico destro > Giù"
+msgstr ""
 
-msgctxt "#30103"
+msgctxt "#30063"
 msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Analogico destro > Sinistro"
+msgstr ""
 
-msgctxt "#30104"
+msgctxt "#30064"
 msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Analogico destro > Destro"
+msgstr ""
 
-msgctxt "#30105"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Turbo Fire"
-
-msgctxt "#30106"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Pulsante Turbo"
-
-msgctxt "#30107"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Turbo Pulse"
-
-msgctxt "#30108"
+msgctxt "#30065"
 msgid "Input > Userport Joystick Adapter"
 msgstr ""
 
-msgctxt "#30109"
-msgid "RetroPad > Joystick Port"
-msgstr ""
+#~ msgctxt "#30002"
+#~ msgid "System > RAM Expansion Unit"
+#~ msgstr "Sistema > Unità di espansione RAM"
 
-msgctxt "#30110"
-msgid "RetroPad > Joystick Port Type"
-msgstr ""
+#~ msgctxt "#30003"
+#~ msgid "System > JiffyDOS"
+#~ msgstr "Sistema > JiffyDOS"
 
-msgctxt "#30111"
-msgid "RetroPad > Face Button Options"
-msgstr "RetroPad > Opzioni del pulsante frontale"
+#~ msgctxt "#30004"
+#~ msgid "System > Read 'vicerc'"
+#~ msgstr "Sistema > Leggi 'vicerc'"
+
+#~ msgctxt "#30005"
+#~ msgid "System > Reset Type"
+#~ msgstr "Sistema > Reimposta tipo"
+
+#~ msgctxt "#30011"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Supporti > Protezione da scrittura floppy"
+
+#~ msgctxt "#30014"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Supporti > Cartuccia"
+
+#~ msgctxt "#30015"
+#~ msgid "Show Video Options"
+#~ msgstr "Mostra opzioni video"
+
+#~ msgctxt "#30016"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "Video > Proporzioni pixel"
+
+#~ msgctxt "#30017"
+#~ msgid "Video > Crop"
+#~ msgstr "Video > Proporzioni pixel"
+
+#~ msgctxt "#30018"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Video > Modalità zoom"
+
+#~ msgctxt "#30019"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "Video > Modalità ritaglio"
+
+#~ msgctxt "#30020"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Video > Ritaglio modalità zoom"
+
+#~ msgctxt "#30034"
+#~ msgid "Video > Color Depth"
+#~ msgstr "Video > Profondità colore"
+
+#~ msgctxt "#30035"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr "OSD > Tema KBD virtuale"
+
+#~ msgctxt "#30036"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr "OSD > Trasparenza KBD virtuale"
+
+#~ msgctxt "#30037"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr "OSD > Dimmerazione KBD virtuale"
+
+#~ msgctxt "#30038"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr "OSD > Modalità barra di stato"
+
+#~ msgctxt "#30039"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Messaggi della barra di stato"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Audio Options"
+#~ msgstr "Mostra opzioni audio"
+
+#~ msgctxt "#30055"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "Input > Mouse analogico con levetta"
+
+#~ msgctxt "#30056"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Input > Zona morta del mouse analogico con levetta"
+
+#~ msgctxt "#30057"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "Input > Velocità della levetta del mouse analogico"
+
+#~ msgctxt "#30058"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "Input > Velocità del mouse del D-Pad"
+
+#~ msgctxt "#30059"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "Input > Velocità del mouse"
+
+#~ msgctxt "#30060"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Input > Pass-through tastiera"
+
+#~ msgctxt "#30062"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "Input > Mappature tastiera Keyrah"
+
+#~ msgctxt "#30064"
+#~ msgid "Show Mapping Options"
+#~ msgstr "Mostra opzioni di mappatura"
+
+#~ msgctxt "#30065"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva tastiera virtuale"
+
+#~ msgctxt "#30066"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva barra di stato"
+
+#~ msgctxt "#30068"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Tasto di scelta rapida> Attiva/disattiva Turbo Fire"
+
+#~ msgctxt "#30069"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Tasto di scelta rapida> Attiva/disattiva salva disco"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Tasto di scelta rapida > Reset"
+
+#~ msgctxt "#30072"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva proporzioni"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva ritaglio"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva modalità zoom"
+
+#~ msgctxt "#30081"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Su"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Giù"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Sinistra"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Destra"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Seleziona"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Avvia"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Analogico sinistro > Su"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Analogico sinistro > Giù"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Analogico sinistro > Sinistro"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Analogico sinistro > Destro"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Analogico destro > Su"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Analogico destro > Giù"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Analogico destro > Sinistro"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Analogico destro > Destro"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Turbo Fire"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Pulsante Turbo"
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Turbo Pulse"
+
+#~ msgctxt "#30111"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "RetroPad > Opzioni del pulsante frontale"
 
 #~ msgctxt "#30006"
 #~ msgid "Media > Cartridge"
