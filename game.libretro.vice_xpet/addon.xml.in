@@ -24,6 +24,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Commodore - PET (VICE xpet)</summary>
 		<summary lang="en_GB">Commodore - PET (VICE xpet)</summary>
 		<summary lang="es_ES">Commodore - PET (VICE xpet)</summary>
 		<description lang="da_DK">VICE står for Versatile Commodore Emulator. Den nuværende version emulerer C64, C64DTV, C128, VIC20, praktisk talt alle PET-modeller, PLUS4 og CBM-II (aka C610/C510).</description>
