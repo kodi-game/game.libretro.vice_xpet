@@ -106,188 +106,324 @@ msgid "OSD > Statusbar Mode"
 msgstr "OSD > Modalità barra di stato"
 
 msgctxt "#30020"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Messaggi della barra di stato"
+msgid "OSD > Statusbar Startup"
+msgstr ""
 
 msgctxt "#30021"
-msgid "OSD > Light Pen/Gun Pointer Color"
+msgid "OSD > Statusbar Messages"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Show Audio Options"
-msgstr "Mostra opzioni audio"
+msgid "OSD > Light Pen/Gun Pointer Color"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Audio > Drive Sound Emulation"
+msgid "Show Audio Options"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Audio > Datasette Sound"
+msgid "Audio > Drive Sound Emulation"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Audio > Sample Rate"
+msgid "Audio > Datasette Sound"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Input > Keyboard Pass-through"
-msgstr "Input > Pass-through tastiera"
+msgid "Audio > Sample Rate"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Input > Datasette Hotkeys"
+msgid "Input > Keyboard Pass-through"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Show Mapping Options"
-msgstr "Mostra opzioni di mappatura"
+msgid "Input > Datasette Hotkeys"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Tasto di scelta rapida > Attiva/disattiva tastiera virtuale"
+msgid "Show Mapping Options"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Tasto di scelta rapida > Attiva/disattiva barra di stato"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr ""
 
 msgctxt "#30031"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Tasto di scelta rapida> Attiva/disattiva Turbo Fire"
+msgid "Hotkey > Toggle Statusbar"
+msgstr ""
 
 msgctxt "#30032"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Tasto di scelta rapida> Attiva/disattiva salva disco"
+msgid "Hotkey > Toggle Turbo Fire"
+msgstr ""
 
 msgctxt "#30033"
-msgid "Hotkey > Reset"
-msgstr "Tasto di scelta rapida > Reimposta"
+msgid "Hotkey > Toggle Save Disk"
+msgstr ""
 
 msgctxt "#30034"
-msgid "Hotkey > Hold Warp Mode"
+msgid "Hotkey > Reset"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Hotkey > Toggle Datasette Hotkeys"
+msgid "Hotkey > Hold Warp Mode"
 msgstr ""
 
 msgctxt "#30036"
-msgid "Hotkey > Datasette PLAY"
+msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Hotkey > Datasette STOP"
+msgid "Hotkey > Datasette PLAY"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Hotkey > Datasette REWIND"
+msgid "Hotkey > Datasette STOP"
 msgstr ""
 
 msgctxt "#30039"
-msgid "Hotkey > Datasette F.FWD"
+msgid "Hotkey > Datasette REWIND"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Hotkey > Datasette RESET"
+msgid "Hotkey > Datasette F.FWD"
 msgstr ""
 
 msgctxt "#30041"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Su"
+msgid "Hotkey > Datasette RESET"
+msgstr ""
 
 msgctxt "#30042"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Giù"
+msgid "RetroPad > Up"
+msgstr ""
 
 msgctxt "#30043"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Sinistra"
+msgid "RetroPad > Down"
+msgstr ""
 
 msgctxt "#30044"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Destra"
+msgid "RetroPad > Left"
+msgstr ""
 
 msgctxt "#30045"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
+msgid "RetroPad > Right"
+msgstr ""
 
 msgctxt "#30046"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
+msgid "RetroPad > A"
+msgstr ""
 
 msgctxt "#30047"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
+msgid "RetroPad > B"
+msgstr ""
 
 msgctxt "#30048"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
+msgid "RetroPad > X"
+msgstr ""
 
 msgctxt "#30049"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Seleziona"
+msgid "RetroPad > Y"
+msgstr ""
 
 msgctxt "#30050"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Avvia"
+msgid "RetroPad > Select"
+msgstr ""
 
 msgctxt "#30051"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
+msgid "RetroPad > Start"
+msgstr ""
 
 msgctxt "#30052"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
+msgid "RetroPad > L"
+msgstr ""
 
 msgctxt "#30053"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
+msgid "RetroPad > R"
+msgstr ""
 
 msgctxt "#30054"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
+msgid "RetroPad > L2"
+msgstr ""
 
 msgctxt "#30055"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
+msgid "RetroPad > R2"
+msgstr ""
 
 msgctxt "#30056"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
+msgid "RetroPad > L3"
+msgstr ""
 
 msgctxt "#30057"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Analogico sinistro > Su"
+msgid "RetroPad > R3"
+msgstr ""
 
 msgctxt "#30058"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Analogico sinistro > Giù"
+msgid "RetroPad > Left Analog > Up"
+msgstr ""
 
 msgctxt "#30059"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Analogico sinistro > Sinistro"
+msgid "RetroPad > Left Analog > Down"
+msgstr ""
 
 msgctxt "#30060"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Analogico sinistro > Destro"
+msgid "RetroPad > Left Analog > Left"
+msgstr ""
 
 msgctxt "#30061"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Analogico destro > Su"
+msgid "RetroPad > Left Analog > Right"
+msgstr ""
 
 msgctxt "#30062"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Analogico destro > Giù"
+msgid "RetroPad > Right Analog > Up"
+msgstr ""
 
 msgctxt "#30063"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Analogico destro > Sinistro"
+msgid "RetroPad > Right Analog > Down"
+msgstr ""
 
 msgctxt "#30064"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Analogico destro > Destro"
+msgid "RetroPad > Right Analog > Left"
+msgstr ""
 
 msgctxt "#30065"
+msgid "RetroPad > Right Analog > Right"
+msgstr ""
+
+msgctxt "#30066"
 msgid "Input > Userport Joystick Adapter"
 msgstr ""
+
+#~ msgctxt "#30020"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Messaggi della barra di stato"
+
+#~ msgctxt "#30022"
+#~ msgid "Show Audio Options"
+#~ msgstr "Mostra opzioni audio"
+
+#~ msgctxt "#30026"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Input > Pass-through tastiera"
+
+#~ msgctxt "#30028"
+#~ msgid "Show Mapping Options"
+#~ msgstr "Mostra opzioni di mappatura"
+
+#~ msgctxt "#30029"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva tastiera virtuale"
+
+#~ msgctxt "#30030"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva barra di stato"
+
+#~ msgctxt "#30031"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Tasto di scelta rapida> Attiva/disattiva Turbo Fire"
+
+#~ msgctxt "#30032"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Tasto di scelta rapida> Attiva/disattiva salva disco"
+
+#~ msgctxt "#30033"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Tasto di scelta rapida > Reimposta"
+
+#~ msgctxt "#30041"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Su"
+
+#~ msgctxt "#30042"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Giù"
+
+#~ msgctxt "#30043"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Sinistra"
+
+#~ msgctxt "#30044"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Destra"
+
+#~ msgctxt "#30045"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30046"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30047"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30048"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30049"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Seleziona"
+
+#~ msgctxt "#30050"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Avvia"
+
+#~ msgctxt "#30051"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30052"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30053"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30054"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30055"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30056"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30057"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Analogico sinistro > Su"
+
+#~ msgctxt "#30058"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Analogico sinistro > Giù"
+
+#~ msgctxt "#30059"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Analogico sinistro > Sinistro"
+
+#~ msgctxt "#30060"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Analogico sinistro > Destro"
+
+#~ msgctxt "#30061"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Analogico destro > Su"
+
+#~ msgctxt "#30062"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Analogico destro > Giù"
+
+#~ msgctxt "#30063"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Analogico destro > Sinistro"
+
+#~ msgctxt "#30064"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Analogico destro > Destro"
 
 #~ msgctxt "#30002"
 #~ msgid "System > RAM Expansion Unit"

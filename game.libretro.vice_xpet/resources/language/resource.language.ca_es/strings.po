@@ -106,188 +106,196 @@ msgid "OSD > Statusbar Mode"
 msgstr ""
 
 msgctxt "#30020"
-msgid "OSD > Statusbar Messages"
+msgid "OSD > Statusbar Startup"
 msgstr ""
 
 msgctxt "#30021"
-msgid "OSD > Light Pen/Gun Pointer Color"
+msgid "OSD > Statusbar Messages"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Show Audio Options"
+msgid "OSD > Light Pen/Gun Pointer Color"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Audio > Drive Sound Emulation"
+msgid "Show Audio Options"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Audio > Datasette Sound"
+msgid "Audio > Drive Sound Emulation"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Audio > Sample Rate"
+msgid "Audio > Datasette Sound"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Input > Keyboard Pass-through"
+msgid "Audio > Sample Rate"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Input > Datasette Hotkeys"
+msgid "Input > Keyboard Pass-through"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Show Mapping Options"
+msgid "Input > Datasette Hotkeys"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Hotkey > Toggle Virtual Keyboard"
+msgid "Show Mapping Options"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Hotkey > Toggle Statusbar"
+msgid "Hotkey > Toggle Virtual Keyboard"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Hotkey > Toggle Turbo Fire"
+msgid "Hotkey > Toggle Statusbar"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Hotkey > Toggle Save Disk"
+msgid "Hotkey > Toggle Turbo Fire"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Hotkey > Reset"
+msgid "Hotkey > Toggle Save Disk"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Hotkey > Hold Warp Mode"
+msgid "Hotkey > Reset"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Hotkey > Toggle Datasette Hotkeys"
+msgid "Hotkey > Hold Warp Mode"
 msgstr ""
 
 msgctxt "#30036"
-msgid "Hotkey > Datasette PLAY"
+msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Hotkey > Datasette STOP"
+msgid "Hotkey > Datasette PLAY"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Hotkey > Datasette REWIND"
-msgstr "Tecla d'accés ràpid > REBOBINAT del conjunt de dades"
+msgid "Hotkey > Datasette STOP"
+msgstr ""
 
 msgctxt "#30039"
-msgid "Hotkey > Datasette F.FWD"
+msgid "Hotkey > Datasette REWIND"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Hotkey > Datasette RESET"
+msgid "Hotkey > Datasette F.FWD"
 msgstr ""
 
 msgctxt "#30041"
-msgid "RetroPad > Up"
+msgid "Hotkey > Datasette RESET"
 msgstr ""
 
 msgctxt "#30042"
-msgid "RetroPad > Down"
+msgid "RetroPad > Up"
 msgstr ""
 
 msgctxt "#30043"
-msgid "RetroPad > Left"
+msgid "RetroPad > Down"
 msgstr ""
 
 msgctxt "#30044"
-msgid "RetroPad > Right"
+msgid "RetroPad > Left"
 msgstr ""
 
 msgctxt "#30045"
-msgid "RetroPad > A"
+msgid "RetroPad > Right"
 msgstr ""
 
 msgctxt "#30046"
-msgid "RetroPad > B"
+msgid "RetroPad > A"
 msgstr ""
 
 msgctxt "#30047"
-msgid "RetroPad > X"
+msgid "RetroPad > B"
 msgstr ""
 
 msgctxt "#30048"
-msgid "RetroPad > Y"
+msgid "RetroPad > X"
 msgstr ""
 
 msgctxt "#30049"
-msgid "RetroPad > Select"
+msgid "RetroPad > Y"
 msgstr ""
 
 msgctxt "#30050"
-msgid "RetroPad > Start"
+msgid "RetroPad > Select"
 msgstr ""
 
 msgctxt "#30051"
-msgid "RetroPad > L"
+msgid "RetroPad > Start"
 msgstr ""
 
 msgctxt "#30052"
-msgid "RetroPad > R"
+msgid "RetroPad > L"
 msgstr ""
 
 msgctxt "#30053"
-msgid "RetroPad > L2"
+msgid "RetroPad > R"
 msgstr ""
 
 msgctxt "#30054"
-msgid "RetroPad > R2"
+msgid "RetroPad > L2"
 msgstr ""
 
 msgctxt "#30055"
-msgid "RetroPad > L3"
+msgid "RetroPad > R2"
 msgstr ""
 
 msgctxt "#30056"
-msgid "RetroPad > R3"
+msgid "RetroPad > L3"
 msgstr ""
 
 msgctxt "#30057"
-msgid "RetroPad > Left Analog > Up"
+msgid "RetroPad > R3"
 msgstr ""
 
 msgctxt "#30058"
-msgid "RetroPad > Left Analog > Down"
+msgid "RetroPad > Left Analog > Up"
 msgstr ""
 
 msgctxt "#30059"
-msgid "RetroPad > Left Analog > Left"
+msgid "RetroPad > Left Analog > Down"
 msgstr ""
 
 msgctxt "#30060"
-msgid "RetroPad > Left Analog > Right"
+msgid "RetroPad > Left Analog > Left"
 msgstr ""
 
 msgctxt "#30061"
-msgid "RetroPad > Right Analog > Up"
+msgid "RetroPad > Left Analog > Right"
 msgstr ""
 
 msgctxt "#30062"
-msgid "RetroPad > Right Analog > Down"
+msgid "RetroPad > Right Analog > Up"
 msgstr ""
 
 msgctxt "#30063"
-msgid "RetroPad > Right Analog > Left"
+msgid "RetroPad > Right Analog > Down"
 msgstr ""
 
 msgctxt "#30064"
-msgid "RetroPad > Right Analog > Right"
+msgid "RetroPad > Right Analog > Left"
 msgstr ""
 
 msgctxt "#30065"
+msgid "RetroPad > Right Analog > Right"
+msgstr ""
+
+msgctxt "#30066"
 msgid "Input > Userport Joystick Adapter"
 msgstr ""
+
+#~ msgctxt "#30038"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "Tecla d'accés ràpid > REBOBINAT del conjunt de dades"
 
 #~ msgctxt "#30078"
 #~ msgid "Hotkey > Datasette REWIND"

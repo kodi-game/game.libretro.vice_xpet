@@ -106,188 +106,376 @@ msgid "OSD > Statusbar Mode"
 msgstr "OSD > Modo Barra de Estado"
 
 msgctxt "#30020"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Mensajes en la Barra de Estado"
+msgid "OSD > Statusbar Startup"
+msgstr ""
 
 msgctxt "#30021"
-msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr "OSD > Lápiz Óptico/Color Puntero Pistola"
+msgid "OSD > Statusbar Messages"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Show Audio Options"
-msgstr "Mostrar Opciones de Audio"
+msgid "OSD > Light Pen/Gun Pointer Color"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Audio > Drive Sound Emulation"
-msgstr "Audio > Unidad de Emulación de Sonido"
+msgid "Show Audio Options"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Audio > Datasette Sound"
-msgstr "Audio > Sonido Datasette"
+msgid "Audio > Drive Sound Emulation"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Audio > Sample Rate"
-msgstr "Audio > Frecuencia de Muestreo"
+msgid "Audio > Datasette Sound"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Input > Keyboard Pass-through"
-msgstr "Entrada > Paso de Teclado"
+msgid "Audio > Sample Rate"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Input > Datasette Hotkeys"
-msgstr "Entrada > Teclas Rápidas Datasette"
+msgid "Input > Keyboard Pass-through"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Show Mapping Options"
-msgstr "Mostrar Opciones de Mapeado"
+msgid "Input > Datasette Hotkeys"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Tecla Rápida > Activar Teclado Virtual"
+msgid "Show Mapping Options"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Tecla Rápida > Activar Barra de Estado"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr ""
 
 msgctxt "#30031"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Tecla Rápida > Activar Disparo Turbo"
+msgid "Hotkey > Toggle Statusbar"
+msgstr ""
 
 msgctxt "#30032"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Tecla Rápida > Activar Guardar a Disco"
+msgid "Hotkey > Toggle Turbo Fire"
+msgstr ""
 
 msgctxt "#30033"
-msgid "Hotkey > Reset"
-msgstr "Tecla Rápida > Reiniciar"
+msgid "Hotkey > Toggle Save Disk"
+msgstr ""
 
 msgctxt "#30034"
-msgid "Hotkey > Hold Warp Mode"
-msgstr "Tecla Rápida > Mantener Modo Warp"
+msgid "Hotkey > Reset"
+msgstr ""
 
 msgctxt "#30035"
-msgid "Hotkey > Toggle Datasette Hotkeys"
-msgstr "Tecla Rápida > Activar Teclas Rápidas Datasette"
+msgid "Hotkey > Hold Warp Mode"
+msgstr ""
 
 msgctxt "#30036"
-msgid "Hotkey > Datasette PLAY"
-msgstr "Tecla Rápida > PLAY Datasette"
+msgid "Hotkey > Toggle Datasette Hotkeys"
+msgstr ""
 
 msgctxt "#30037"
-msgid "Hotkey > Datasette STOP"
-msgstr "Tecla Rápida > STOP Datasette"
+msgid "Hotkey > Datasette PLAY"
+msgstr ""
 
 msgctxt "#30038"
-msgid "Hotkey > Datasette REWIND"
-msgstr "Tecla Rápida > REWIND Datasette"
+msgid "Hotkey > Datasette STOP"
+msgstr ""
 
 msgctxt "#30039"
-msgid "Hotkey > Datasette F.FWD"
-msgstr "Tecla Rápida > F.FWD Datasette"
+msgid "Hotkey > Datasette REWIND"
+msgstr ""
 
 msgctxt "#30040"
-msgid "Hotkey > Datasette RESET"
-msgstr "Tecla Rápida > RESET Datasette"
+msgid "Hotkey > Datasette F.FWD"
+msgstr ""
 
 msgctxt "#30041"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Arriba"
+msgid "Hotkey > Datasette RESET"
+msgstr ""
 
 msgctxt "#30042"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Abajo"
+msgid "RetroPad > Up"
+msgstr ""
 
 msgctxt "#30043"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Izquierda"
+msgid "RetroPad > Down"
+msgstr ""
 
 msgctxt "#30044"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Derecha"
+msgid "RetroPad > Left"
+msgstr ""
 
 msgctxt "#30045"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
+msgid "RetroPad > Right"
+msgstr ""
 
 msgctxt "#30046"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
+msgid "RetroPad > A"
+msgstr ""
 
 msgctxt "#30047"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
+msgid "RetroPad > B"
+msgstr ""
 
 msgctxt "#30048"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
+msgid "RetroPad > X"
+msgstr ""
 
 msgctxt "#30049"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
+msgid "RetroPad > Y"
+msgstr ""
 
 msgctxt "#30050"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
+msgid "RetroPad > Select"
+msgstr ""
 
 msgctxt "#30051"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
+msgid "RetroPad > Start"
+msgstr ""
 
 msgctxt "#30052"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
+msgid "RetroPad > L"
+msgstr ""
 
 msgctxt "#30053"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
+msgid "RetroPad > R"
+msgstr ""
 
 msgctxt "#30054"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
+msgid "RetroPad > L2"
+msgstr ""
 
 msgctxt "#30055"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
+msgid "RetroPad > R2"
+msgstr ""
 
 msgctxt "#30056"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
+msgid "RetroPad > L3"
+msgstr ""
 
 msgctxt "#30057"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Analógico Izquierdo > Arriba"
+msgid "RetroPad > R3"
+msgstr ""
 
 msgctxt "#30058"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Analógico Izquierdo > Abajo"
+msgid "RetroPad > Left Analog > Up"
+msgstr ""
 
 msgctxt "#30059"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Analógico Izquierdo > Izquierda"
+msgid "RetroPad > Left Analog > Down"
+msgstr ""
 
 msgctxt "#30060"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Analógico Izquierdo > Derecha"
+msgid "RetroPad > Left Analog > Left"
+msgstr ""
 
 msgctxt "#30061"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Analógico Derecho > Arriba"
+msgid "RetroPad > Left Analog > Right"
+msgstr ""
 
 msgctxt "#30062"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Analógico Derecho > Abajo"
+msgid "RetroPad > Right Analog > Up"
+msgstr ""
 
 msgctxt "#30063"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Analógico Derecho > Izquierda"
+msgid "RetroPad > Right Analog > Down"
+msgstr ""
 
 msgctxt "#30064"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Analógico Derecho > Derecha"
+msgid "RetroPad > Right Analog > Left"
+msgstr ""
 
 msgctxt "#30065"
+msgid "RetroPad > Right Analog > Right"
+msgstr ""
+
+msgctxt "#30066"
 msgid "Input > Userport Joystick Adapter"
-msgstr "Entrada > Adaptador de Joystick Userport"
+msgstr ""
+
+#~ msgctxt "#30020"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Mensajes en la Barra de Estado"
+
+#~ msgctxt "#30021"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr "OSD > Lápiz Óptico/Color Puntero Pistola"
+
+#~ msgctxt "#30022"
+#~ msgid "Show Audio Options"
+#~ msgstr "Mostrar Opciones de Audio"
+
+#~ msgctxt "#30023"
+#~ msgid "Audio > Drive Sound Emulation"
+#~ msgstr "Audio > Unidad de Emulación de Sonido"
+
+#~ msgctxt "#30024"
+#~ msgid "Audio > Datasette Sound"
+#~ msgstr "Audio > Sonido Datasette"
+
+#~ msgctxt "#30025"
+#~ msgid "Audio > Sample Rate"
+#~ msgstr "Audio > Frecuencia de Muestreo"
+
+#~ msgctxt "#30026"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Entrada > Paso de Teclado"
+
+#~ msgctxt "#30027"
+#~ msgid "Input > Datasette Hotkeys"
+#~ msgstr "Entrada > Teclas Rápidas Datasette"
+
+#~ msgctxt "#30028"
+#~ msgid "Show Mapping Options"
+#~ msgstr "Mostrar Opciones de Mapeado"
+
+#~ msgctxt "#30029"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Tecla Rápida > Activar Teclado Virtual"
+
+#~ msgctxt "#30030"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Tecla Rápida > Activar Barra de Estado"
+
+#~ msgctxt "#30031"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Tecla Rápida > Activar Disparo Turbo"
+
+#~ msgctxt "#30032"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Tecla Rápida > Activar Guardar a Disco"
+
+#~ msgctxt "#30033"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Tecla Rápida > Reiniciar"
+
+#~ msgctxt "#30034"
+#~ msgid "Hotkey > Hold Warp Mode"
+#~ msgstr "Tecla Rápida > Mantener Modo Warp"
+
+#~ msgctxt "#30035"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "Tecla Rápida > Activar Teclas Rápidas Datasette"
+
+#~ msgctxt "#30036"
+#~ msgid "Hotkey > Datasette PLAY"
+#~ msgstr "Tecla Rápida > PLAY Datasette"
+
+#~ msgctxt "#30037"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "Tecla Rápida > STOP Datasette"
+
+#~ msgctxt "#30038"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "Tecla Rápida > REWIND Datasette"
+
+#~ msgctxt "#30039"
+#~ msgid "Hotkey > Datasette F.FWD"
+#~ msgstr "Tecla Rápida > F.FWD Datasette"
+
+#~ msgctxt "#30040"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "Tecla Rápida > RESET Datasette"
+
+#~ msgctxt "#30041"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Arriba"
+
+#~ msgctxt "#30042"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Abajo"
+
+#~ msgctxt "#30043"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Izquierda"
+
+#~ msgctxt "#30044"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Derecha"
+
+#~ msgctxt "#30045"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30046"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30047"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30048"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30049"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30050"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30051"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30052"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30053"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30054"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30055"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30056"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30057"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Analógico Izquierdo > Arriba"
+
+#~ msgctxt "#30058"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Analógico Izquierdo > Abajo"
+
+#~ msgctxt "#30059"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Analógico Izquierdo > Izquierda"
+
+#~ msgctxt "#30060"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Analógico Izquierdo > Derecha"
+
+#~ msgctxt "#30061"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Analógico Derecho > Arriba"
+
+#~ msgctxt "#30062"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Analógico Derecho > Abajo"
+
+#~ msgctxt "#30063"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Analógico Derecho > Izquierda"
+
+#~ msgctxt "#30064"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Analógico Derecho > Derecha"
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Userport Joystick Adapter"
+#~ msgstr "Entrada > Adaptador de Joystick Userport"
 
 #~ msgctxt "#30002"
 #~ msgid "System > RAM Expansion Unit"
