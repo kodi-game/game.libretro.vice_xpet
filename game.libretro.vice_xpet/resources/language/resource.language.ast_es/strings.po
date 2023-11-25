@@ -293,6 +293,50 @@ msgctxt "#30066"
 msgid "Input > Userport Joystick Adapter"
 msgstr ""
 
+msgctxt "#30067"
+msgid "System > Printer"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Crop"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Zoom Mode"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Crop Mode"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Zoom Mode Crop"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Manual Crop Top"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Manual Crop Bottom"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Manual Crop Left"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Video > Manual Crop Right"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Hotkey > Toggle Crop"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Hotkey > Toggle Zoom Mode"
+msgstr ""
+
 #~ msgctxt "#30041"
 #~ msgid "RetroPad > Up"
 #~ msgstr "RetroPad > Arriba"
