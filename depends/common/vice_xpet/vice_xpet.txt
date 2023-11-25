@@ -1,1 +1,1 @@
-vice_xpet https://github.com/libretro/vice-libretro/archive/a2385eb1103a9f5c86333bae0f308ca678fc7d82.tar.gz
+vice_xpet https://github.com/libretro/vice-libretro/archive/341dd731a43599891aca921c95addd767d1cc778.tar.gz
