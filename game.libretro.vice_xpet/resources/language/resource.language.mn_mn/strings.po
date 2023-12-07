@@ -296,42 +296,42 @@ msgctxt "#30067"
 msgid "System > Printer"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30068"
 msgid "Video > Crop"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30069"
 msgid "Video > Zoom Mode"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30070"
 msgid "Video > Crop Mode"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30071"
 msgid "Video > Zoom Mode Crop"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30072"
 msgid "Video > Manual Crop Top"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30073"
 msgid "Video > Manual Crop Bottom"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30074"
 msgid "Video > Manual Crop Left"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30075"
 msgid "Video > Manual Crop Right"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30076"
 msgid "Hotkey > Toggle Crop"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30077"
 msgid "Hotkey > Toggle Zoom Mode"
 msgstr ""
