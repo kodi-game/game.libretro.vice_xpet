@@ -9,10 +9,12 @@
 		<setting label="30005" type="select" id="vice_autostart" values="enabled|disabled|warp" default="enabled"/>
 		<setting label="30006" type="select" id="vice_drive_true_emulation" values="enabled|disabled" default="enabled"/>
 		<setting label="30007" type="select" id="vice_virtual_device_traps" values="disabled|enabled" default="disabled"/>
+		<setting label="30078" type="select" id="vice_floppy_multidrive" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="vice_floppy_write_protection" values="disabled|enabled" default="disabled"/>
 		<setting label="30009" type="select" id="vice_work_disk" values="disabled|8_d64|9_d64|8_d71|9_d71|8_d81|9_d81|8_fs|9_fs" default="disabled"/>
 		<setting label="30010" type="select" id="vice_video_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30068" type="select" id="vice_crop" values="disabled|small|medium|maximum|auto|auto_disable|manual" default="disabled"/>
+		<setting label="30079" type="select" id="vice_crop_delay" values="enabled|disabled" default="enabled"/>
 		<setting label="30069" type="select" id="vice_zoom_mode" values="deprecated|disabled|small|medium|maximum|auto|auto_disable|manual" default="deprecated"/>
 		<setting label="30070" type="select" id="vice_crop_mode" values="both|horizontal|vertical|16:9|16:10|4:3|5:4" default="both"/>
 		<setting label="30071" type="select" id="vice_zoom_mode_crop" values="deprecated|both|horizontal|vertical|16:9|16:10|4:3|5:4" default="deprecated"/>
