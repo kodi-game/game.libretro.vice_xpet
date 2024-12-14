@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
 msgstr "VICE son las siglas de Versatile Commodore Emulator (emulador versátil de Commodore). La versión actual emula el C64, el C64DTV, el C128, el VIC20, prácticamente todos los modelos PET, el PLUS4 y el CBM-II (también conocido como C610/C510)."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "System > Model"
 msgstr "Sistema > Modelo"
@@ -72,14 +68,6 @@ msgstr "Mostrar Opciones de Vídeo"
 msgctxt "#30011"
 msgid "Video > CRTC Filter"
 msgstr "Vídeo > Filtro CRTC"
-
-msgctxt "#30012"
-msgid "Video > CRTC Filter Oddline Offset"
-msgstr "Vídeo > Desplazamiento de Línea Impar del Filtro CRTC"
-
-msgctxt "#30013"
-msgid "Video > CRTC Filter Oddline Phase"
-msgstr "Vídeo > Fase de Línea Impar del Filtro CRTC"
 
 msgctxt "#30014"
 msgid "Video > CRTC Color Palette"
@@ -344,6 +332,18 @@ msgstr "Medios > Floppy MultiDrive"
 msgctxt "#30079"
 msgid "Video > Automatic Crop Delay"
 msgstr "Vídeo > Retardo Automático del Recorte"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
+
+#~ msgctxt "#30012"
+#~ msgid "Video > CRTC Filter Oddline Offset"
+#~ msgstr "Vídeo > Desplazamiento de Línea Impar del Filtro CRTC"
+
+#~ msgctxt "#30013"
+#~ msgid "Video > CRTC Filter Oddline Phase"
+#~ msgstr "Vídeo > Fase de Línea Impar del Filtro CRTC"
 
 #~ msgctxt "#30067"
 #~ msgid "Video > Crop"

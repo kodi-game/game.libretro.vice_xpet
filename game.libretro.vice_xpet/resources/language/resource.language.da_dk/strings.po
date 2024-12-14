@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
 msgstr "VICE står for Versatile Commodore Emulator. Den nuværende version emulerer C64, C64DTV, C128, VIC20, praktisk talt alle PET-modeller, PLUS4 og CBM-II (aka C610/C510)."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "System > Model"
 msgstr "System > Model"
@@ -72,14 +68,6 @@ msgstr "Vis videoindstillinger"
 msgctxt "#30011"
 msgid "Video > CRTC Filter"
 msgstr "Video > CRTC-filter"
-
-msgctxt "#30012"
-msgid "Video > CRTC Filter Oddline Offset"
-msgstr "Video > CRTC filter forskydning af ulige linje"
-
-msgctxt "#30013"
-msgid "Video > CRTC Filter Oddline Phase"
-msgstr "Video > CRTC filter fase for ulige linje"
 
 msgctxt "#30014"
 msgid "Video > CRTC Color Palette"
@@ -344,6 +332,18 @@ msgstr ""
 msgctxt "#30079"
 msgid "Video > Automatic Crop Delay"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
+
+#~ msgctxt "#30012"
+#~ msgid "Video > CRTC Filter Oddline Offset"
+#~ msgstr "Video > CRTC filter forskydning af ulige linje"
+
+#~ msgctxt "#30013"
+#~ msgid "Video > CRTC Filter Oddline Phase"
+#~ msgstr "Video > CRTC filter fase for ulige linje"
 
 #~ msgctxt "#30020"
 #~ msgid "OSD > Statusbar Messages"

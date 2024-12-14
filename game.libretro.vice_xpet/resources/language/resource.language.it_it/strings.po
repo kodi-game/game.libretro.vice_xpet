@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
 msgstr "VICE sta per Versatile Commodore Emulator. La versione attuale emula il C64, il C64DTV, il C128, il VIC20, praticamente tutti i modelli PET, il PLUS4 e il CBM-II (alias C610/C510)."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "System > Model"
 msgstr "Sistema > Modello"
@@ -71,14 +67,6 @@ msgstr "Mostra opzioni video"
 
 msgctxt "#30011"
 msgid "Video > CRTC Filter"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Video > CRTC Filter Oddline Offset"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Video > CRTC Filter Oddline Phase"
 msgstr ""
 
 msgctxt "#30014"
@@ -344,6 +332,10 @@ msgstr ""
 msgctxt "#30079"
 msgid "Video > Automatic Crop Delay"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
 
 #~ msgctxt "#30020"
 #~ msgid "OSD > Statusbar Messages"
