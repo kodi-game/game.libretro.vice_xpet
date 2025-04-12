@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-12 12:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice_xpet/sv_se/>\n"
 "Language: sv_se\n"
@@ -31,39 +31,45 @@ msgstr "System > Modell"
 
 msgctxt "#30002"
 msgid "System > Read 'vicerc'"
-msgstr ""
+msgstr "System > Läs 'vicerc'"
 
 msgctxt "#30003"
 msgid "System > Reset Type"
-msgstr ""
+msgstr "System > Omstartstyp"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Media > Automatic Load Warp"
-msgstr ""
+msgstr "Media > Automatisk Load Warp"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Media > Autostart"
-msgstr ""
+msgstr "Media > Autostart"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Media > True Drive Emulation"
-msgstr ""
+msgstr "Media > True Drive-emulering"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Media > Virtual Device Traps"
-msgstr ""
+msgstr "Media > Traps för virtuella enheter"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Media > Floppy Write Protection"
-msgstr ""
+msgstr "Media > Skrivskydd för disketter"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Media > Global Work Disk"
-msgstr ""
+msgstr "Media > Global arbetsdisk"
 
 msgctxt "#30010"
 msgid "Show Video Options"
-msgstr ""
+msgstr "Visa videoalternativ"
 
 msgctxt "#30011"
 msgid "Video > CRTC Filter"
@@ -75,263 +81,263 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Video > Color Depth"
-msgstr ""
+msgstr "Video > Färgdjup"
 
 msgctxt "#30016"
 msgid "OSD > Virtual KBD Theme"
-msgstr ""
+msgstr "OSD > Virtuellt KBD-tema"
 
 msgctxt "#30017"
 msgid "OSD > Virtual KBD Transparency"
-msgstr ""
+msgstr "OSD > Virtuell KBD-genomskinlighet"
 
 msgctxt "#30018"
 msgid "OSD > Virtual KBD Dimming"
-msgstr ""
+msgstr "OSD > Virtuell KBD-dimning"
 
 msgctxt "#30019"
 msgid "OSD > Statusbar Mode"
-msgstr ""
+msgstr "OSD > Statusfältläge"
 
 msgctxt "#30020"
 msgid "OSD > Statusbar Startup"
-msgstr ""
+msgstr "OSD > Statusfält vid uppstart"
 
 msgctxt "#30021"
 msgid "OSD > Statusbar Messages"
-msgstr ""
+msgstr "OSD > Meddelanden för statusfält"
 
 msgctxt "#30022"
 msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr ""
+msgstr "OSD > Färg på ljuspennan/pistolpekaren"
 
 msgctxt "#30023"
 msgid "Show Audio Options"
-msgstr ""
+msgstr "Visa ljudalternativ"
 
 msgctxt "#30024"
 msgid "Audio > Drive Sound Emulation"
-msgstr ""
+msgstr "Ljud > Emulering av enhetsljud"
 
 msgctxt "#30025"
 msgid "Audio > Datasette Sound"
-msgstr ""
+msgstr "Ljud > Datasette-ljud"
 
 msgctxt "#30026"
 msgid "Audio > Sample Rate"
-msgstr ""
+msgstr "Ljud > Samplingsfrekvens"
 
 msgctxt "#30027"
 msgid "Input > Keyboard Pass-through"
-msgstr ""
+msgstr "Inmatning > Genomströmning av tangentbord"
 
 msgctxt "#30028"
 msgid "Input > Datasette Hotkeys"
-msgstr ""
+msgstr "Inmatning > Snabbtangenter för datasette"
 
 msgctxt "#30029"
 msgid "Show Mapping Options"
-msgstr ""
+msgstr "Visa mappningsalternativ"
 
 msgctxt "#30030"
 msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr ""
+msgstr "Snabbtangent > Växla virtuellt tangentbord"
 
 msgctxt "#30031"
 msgid "Hotkey > Toggle Statusbar"
-msgstr ""
+msgstr "Snabbtangent > Växla statusfält"
 
 msgctxt "#30032"
 msgid "Hotkey > Toggle Turbo Fire"
-msgstr ""
+msgstr "Snabbtangent > Växla turboavfyrning"
 
 msgctxt "#30033"
 msgid "Hotkey > Toggle Save Disk"
-msgstr ""
+msgstr "Snabbtangent > Växla sparningsdisk"
 
 msgctxt "#30034"
 msgid "Hotkey > Reset"
-msgstr ""
+msgstr "Snabbknapp > Omstart"
 
 msgctxt "#30035"
 msgid "Hotkey > Hold Warp Mode"
-msgstr ""
+msgstr "Snabbtangent > Hold Warp-läge"
 
 msgctxt "#30036"
 msgid "Hotkey > Toggle Datasette Hotkeys"
-msgstr ""
+msgstr "Snabbtangent > Växla snabbtangenter för datasette"
 
 msgctxt "#30037"
 msgid "Hotkey > Datasette PLAY"
-msgstr ""
+msgstr "Snabbtangent > Datasette PLAY"
 
 msgctxt "#30038"
 msgid "Hotkey > Datasette STOP"
-msgstr ""
+msgstr "Snabbtangent > Datasette STOP"
 
 msgctxt "#30039"
 msgid "Hotkey > Datasette REWIND"
-msgstr ""
+msgstr "Snabbtangent > Datasette REWIND"
 
 msgctxt "#30040"
 msgid "Hotkey > Datasette F.FWD"
-msgstr ""
+msgstr "Snabbtangent > Datasette F.FWD"
 
 msgctxt "#30041"
 msgid "Hotkey > Datasette RESET"
-msgstr ""
+msgstr "Snabbtangent > Datasette RESET"
 
 msgctxt "#30042"
 msgid "RetroPad > Up"
-msgstr ""
+msgstr "RetroPad > Up"
 
 msgctxt "#30043"
 msgid "RetroPad > Down"
-msgstr ""
+msgstr "RetroPad > Ner"
 
 msgctxt "#30044"
 msgid "RetroPad > Left"
-msgstr ""
+msgstr "RetroPad > Vänster"
 
 msgctxt "#30045"
 msgid "RetroPad > Right"
-msgstr ""
+msgstr "RetroPad > Höger"
 
 msgctxt "#30046"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30047"
 msgid "RetroPad > B"
-msgstr ""
+msgstr "RetroPad > B"
 
 msgctxt "#30048"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30049"
 msgid "RetroPad > Y"
-msgstr ""
+msgstr "RetroPad > Y"
 
 msgctxt "#30050"
 msgid "RetroPad > Select"
-msgstr ""
+msgstr "RetroPad > Select"
 
 msgctxt "#30051"
 msgid "RetroPad > Start"
-msgstr ""
+msgstr "RetroPad > Start"
 
 msgctxt "#30052"
 msgid "RetroPad > L"
-msgstr ""
+msgstr "RetroPad > L"
 
 msgctxt "#30053"
 msgid "RetroPad > R"
-msgstr ""
+msgstr "RetroPad > R"
 
 msgctxt "#30054"
 msgid "RetroPad > L2"
-msgstr ""
+msgstr "RetroPad > L2"
 
 msgctxt "#30055"
 msgid "RetroPad > R2"
-msgstr ""
+msgstr "RetroPad > R2"
 
 msgctxt "#30056"
 msgid "RetroPad > L3"
-msgstr ""
+msgstr "RetroPad > L3"
 
 msgctxt "#30057"
 msgid "RetroPad > R3"
-msgstr ""
+msgstr "RetroPad > R3"
 
 msgctxt "#30058"
 msgid "RetroPad > Left Analog > Up"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Upp"
 
 msgctxt "#30059"
 msgid "RetroPad > Left Analog > Down"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Ner"
 
 msgctxt "#30060"
 msgid "RetroPad > Left Analog > Left"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Vänster"
 
 msgctxt "#30061"
 msgid "RetroPad > Left Analog > Right"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Höger"
 
 msgctxt "#30062"
 msgid "RetroPad > Right Analog > Up"
-msgstr ""
+msgstr "RetroPad > Höger analog > Upp"
 
 msgctxt "#30063"
 msgid "RetroPad > Right Analog > Down"
-msgstr ""
+msgstr "RetroPad > Höger analog > Ner"
 
 msgctxt "#30064"
 msgid "RetroPad > Right Analog > Left"
-msgstr ""
+msgstr "RetroPad > Höger analog > Vänster"
 
 msgctxt "#30065"
 msgid "RetroPad > Right Analog > Right"
-msgstr ""
+msgstr "RetroPad > Höger analog > Höger"
 
 msgctxt "#30066"
 msgid "Input > Userport Joystick Adapter"
-msgstr ""
+msgstr "Inmatning > Userport Joystick-adapter"
 
 msgctxt "#30067"
 msgid "System > Printer"
-msgstr ""
+msgstr "System > Skrivare"
 
 msgctxt "#30068"
 msgid "Video > Crop"
-msgstr ""
+msgstr "Video > Beskär"
 
 msgctxt "#30069"
 msgid "Video > Zoom Mode"
-msgstr ""
+msgstr "Video > Zoom-läge"
 
 msgctxt "#30070"
 msgid "Video > Crop Mode"
-msgstr ""
+msgstr "Video > Beskärningsläge"
 
 msgctxt "#30071"
 msgid "Video > Zoom Mode Crop"
-msgstr ""
+msgstr "Video > Zoomläge beskärning"
 
 msgctxt "#30072"
 msgid "Video > Manual Crop Top"
-msgstr ""
+msgstr "Video > Manuell beskärning överst"
 
 msgctxt "#30073"
 msgid "Video > Manual Crop Bottom"
-msgstr ""
+msgstr "Video > Manuell beskärning nederst"
 
 msgctxt "#30074"
 msgid "Video > Manual Crop Left"
-msgstr ""
+msgstr "Video > Manuell beskärning vänster"
 
 msgctxt "#30075"
 msgid "Video > Manual Crop Right"
-msgstr ""
+msgstr "Video > Manuell beskärning höger"
 
 msgctxt "#30076"
 msgid "Hotkey > Toggle Crop"
-msgstr ""
+msgstr "Snabbtangent > Växla beskärning"
 
 msgctxt "#30077"
 msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
+msgstr "Snabbtangent > Växla zoomläge"
 
 msgctxt "#30078"
 msgid "Media > Floppy MultiDrive"
-msgstr ""
+msgstr "Media > Diskett MultiDrive"
 
 msgctxt "#30079"
 msgid "Video > Automatic Crop Delay"
-msgstr ""
+msgstr "Video > Automatisk fördröjning av beskärning"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
