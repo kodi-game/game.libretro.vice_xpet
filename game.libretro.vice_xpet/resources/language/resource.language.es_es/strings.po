@@ -289,17 +289,9 @@ msgctxt "#30068"
 msgid "Video > Crop"
 msgstr "Vídeo > Recortar"
 
-msgctxt "#30069"
-msgid "Video > Zoom Mode"
-msgstr "Vídeo > Modo Zoom"
-
 msgctxt "#30070"
 msgid "Video > Crop Mode"
 msgstr "Vídeo > Modo de Recorte"
-
-msgctxt "#30071"
-msgid "Video > Zoom Mode Crop"
-msgstr "Vídeo > Modo Recorte Zoom"
 
 msgctxt "#30072"
 msgid "Video > Manual Crop Top"
@@ -321,10 +313,6 @@ msgctxt "#30076"
 msgid "Hotkey > Toggle Crop"
 msgstr "Tecla Rápida > Activar Recorte"
 
-msgctxt "#30077"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Tecla Rápida > Activar Modo Zoom"
-
 msgctxt "#30078"
 msgid "Media > Floppy MultiDrive"
 msgstr "Medios > Floppy MultiDrive"
@@ -332,6 +320,18 @@ msgstr "Medios > Floppy MultiDrive"
 msgctxt "#30079"
 msgid "Video > Automatic Crop Delay"
 msgstr "Vídeo > Retardo Automático del Recorte"
+
+#~ msgctxt "#30069"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Vídeo > Modo Zoom"
+
+#~ msgctxt "#30071"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Vídeo > Modo Recorte Zoom"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Tecla Rápida > Activar Modo Zoom"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
