@@ -321,6 +321,10 @@ msgctxt "#30079"
 msgid "Video > Automatic Crop Delay"
 msgstr ""
 
+msgctxt "#30080"
+msgid "Audio > CRTC Audio Leak Emulation"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Pengaturan"
