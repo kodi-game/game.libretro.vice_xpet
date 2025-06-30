@@ -33,6 +33,7 @@
 		<setting label="30023" type="select" id="vice_audio_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30024" type="select" id="vice_drive_sound_emulation" values="20%|disabled|5%|10%|15%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%" default="20%"/>
 		<setting label="30025" type="select" id="vice_datasette_sound" values="disabled|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|-1" default="disabled"/>
+		<setting label="30080" type="select" id="vice_audio_leak_emulation" values="disabled|1|2|3|4|5|6|7|8|9|10" default="disabled"/>
 		<setting label="30026" type="select" id="vice_sound_sample_rate" values="48000|22050|44100|96000" default="48000"/>
 		<setting label="30027" type="select" id="vice_physical_keyboard_pass_through" values="disabled|enabled" default="disabled"/>
 		<setting label="30028" type="select" id="vice_datasette_hotkeys" values="disabled|enabled" default="disabled"/>
