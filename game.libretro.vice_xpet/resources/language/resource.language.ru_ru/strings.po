@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2026-05-26 02:07+0000\n"
+"PO-Revision-Date: 2026-05-27 02:16+0000\n"
 "Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice_xpet/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Commodore - PET (VICE xpet)"
-msgstr ""
+msgstr "Commodore — PET (VICE xpet)"
 
 msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
@@ -67,11 +67,11 @@ msgstr "Показать настройки видео"
 
 msgctxt "#30011"
 msgid "Video > CRTC Filter"
-msgstr ""
+msgstr "Видео > Фильтр CRTC"
 
 msgctxt "#30014"
 msgid "Video > CRTC Color Palette"
-msgstr ""
+msgstr "Видео > Цветовая палитра CRTC"
 
 msgctxt "#30015"
 msgid "Video > Color Depth"
@@ -323,7 +323,7 @@ msgstr "Видео > Задержка автоматической обрезк�
 
 msgctxt "#30080"
 msgid "Audio > CRTC Audio Leak Emulation"
-msgstr ""
+msgstr "Аудио > Эмуляция утечки аудио CRTC"
 
 #~ msgctxt "#30069"
 #~ msgid "Video > Zoom Mode"
