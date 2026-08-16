@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2026-08-15 22:09+0000\n"
+"PO-Revision-Date: 2026-08-16 22:16+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice_xpet/it_it/>\n"
 "Language: it_it\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Commodore - PET (VICE xpet)"
-msgstr ""
+msgstr "Commodore - PET (VICE xpet)"
 
 msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
@@ -67,11 +67,11 @@ msgstr "Mostra opzioni video"
 
 msgctxt "#30011"
 msgid "Video > CRTC Filter"
-msgstr ""
+msgstr "Video > Filtro CRTC"
 
 msgctxt "#30014"
 msgid "Video > CRTC Color Palette"
-msgstr ""
+msgstr "Video > Tavolozza colori CRTC"
 
 msgctxt "#30015"
 msgid "Video > Color Depth"
@@ -95,31 +95,31 @@ msgstr "OSD > Modalità barra di stato"
 
 msgctxt "#30020"
 msgid "OSD > Statusbar Startup"
-msgstr ""
+msgstr "OSD > Avvio barra di stato"
 
 msgctxt "#30021"
 msgid "OSD > Statusbar Messages"
-msgstr ""
+msgstr "OSD > Messaggi della barra di stato"
 
 msgctxt "#30022"
 msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr ""
+msgstr "OSD > Colore puntatore penna/pistola ottica"
 
 msgctxt "#30023"
 msgid "Show Audio Options"
-msgstr ""
+msgstr "Mostra opzioni audio"
 
 msgctxt "#30024"
 msgid "Audio > Drive Sound Emulation"
-msgstr ""
+msgstr "Audio > Emulazione suono unità disco"
 
 msgctxt "#30025"
 msgid "Audio > Datasette Sound"
-msgstr ""
+msgstr "Audio > Suono Datasette"
 
 msgctxt "#30026"
 msgid "Audio > Sample Rate"
-msgstr ""
+msgstr "Audio > Frequenza di campionamento"
 
 msgctxt "#30027"
 msgid "Input > Keyboard Pass-through"
@@ -127,7 +127,7 @@ msgstr "Input > Pass-through tastiera"
 
 msgctxt "#30028"
 msgid "Input > Datasette Hotkeys"
-msgstr ""
+msgstr "Input > Tasti di scelta rapida Datasette"
 
 msgctxt "#30029"
 msgid "Show Mapping Options"
@@ -151,55 +151,55 @@ msgstr "Tasto di scelta rapida> Attiva/disattiva salva disco"
 
 msgctxt "#30034"
 msgid "Hotkey > Reset"
-msgstr ""
+msgstr "Tasto di scelta rapida > Reimposta"
 
 msgctxt "#30035"
 msgid "Hotkey > Hold Warp Mode"
-msgstr ""
+msgstr "Tasto di scelta rapida > Mantieni modalità warp"
 
 msgctxt "#30036"
 msgid "Hotkey > Toggle Datasette Hotkeys"
-msgstr ""
+msgstr "Tasto di scelta rapida > Attiva/disattiva tasti di scelta rapida Datasette"
 
 msgctxt "#30037"
 msgid "Hotkey > Datasette PLAY"
-msgstr ""
+msgstr "Tasto di scelta rapida > Datasette riproduci"
 
 msgctxt "#30038"
 msgid "Hotkey > Datasette STOP"
-msgstr ""
+msgstr "Tasto di scelta rapida > Datasette arresta"
 
 msgctxt "#30039"
 msgid "Hotkey > Datasette REWIND"
-msgstr ""
+msgstr "Tasto di scelta rapida > Datasette riavvolgi"
 
 msgctxt "#30040"
 msgid "Hotkey > Datasette F.FWD"
-msgstr ""
+msgstr "Tasto di scelta rapida > Datasette avanti veloce"
 
 msgctxt "#30041"
 msgid "Hotkey > Datasette RESET"
-msgstr ""
+msgstr "Tasto di scelta rapida > Datasette reimposta"
 
 msgctxt "#30042"
 msgid "RetroPad > Up"
-msgstr ""
+msgstr "RetroPad > Su"
 
 msgctxt "#30043"
 msgid "RetroPad > Down"
-msgstr ""
+msgstr "RetroPad > Giù"
 
 msgctxt "#30044"
 msgid "RetroPad > Left"
-msgstr ""
+msgstr "RetroPad > Sinistra"
 
 msgctxt "#30045"
 msgid "RetroPad > Right"
-msgstr ""
+msgstr "RetroPad > Destra"
 
 msgctxt "#30046"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30047"
 msgid "RetroPad > B"
@@ -207,7 +207,7 @@ msgstr "RetroPad > B"
 
 msgctxt "#30048"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30049"
 msgid "RetroPad > Y"
@@ -215,75 +215,75 @@ msgstr "RetroPad > Y"
 
 msgctxt "#30050"
 msgid "RetroPad > Select"
-msgstr ""
+msgstr "RetroPad > Select"
 
 msgctxt "#30051"
 msgid "RetroPad > Start"
-msgstr ""
+msgstr "RetroPad > Start"
 
 msgctxt "#30052"
 msgid "RetroPad > L"
-msgstr ""
+msgstr "RetroPad > L"
 
 msgctxt "#30053"
 msgid "RetroPad > R"
-msgstr ""
+msgstr "RetroPad > R"
 
 msgctxt "#30054"
 msgid "RetroPad > L2"
-msgstr ""
+msgstr "RetroPad > L2"
 
 msgctxt "#30055"
 msgid "RetroPad > R2"
-msgstr ""
+msgstr "RetroPad > R2"
 
 msgctxt "#30056"
 msgid "RetroPad > L3"
-msgstr ""
+msgstr "RetroPad > L3"
 
 msgctxt "#30057"
 msgid "RetroPad > R3"
-msgstr ""
+msgstr "RetroPad > R3"
 
 msgctxt "#30058"
 msgid "RetroPad > Left Analog > Up"
-msgstr ""
+msgstr "RetroPad > Analogico sinistro > Su"
 
 msgctxt "#30059"
 msgid "RetroPad > Left Analog > Down"
-msgstr ""
+msgstr "RetroPad > Analogico sinistro > Giù"
 
 msgctxt "#30060"
 msgid "RetroPad > Left Analog > Left"
-msgstr ""
+msgstr "RetroPad > Analogico sinistro > Sinistra"
 
 msgctxt "#30061"
 msgid "RetroPad > Left Analog > Right"
-msgstr ""
+msgstr "RetroPad > Analogico sinistro > Destra"
 
 msgctxt "#30062"
 msgid "RetroPad > Right Analog > Up"
-msgstr ""
+msgstr "RetroPad > Analogico destro > Su"
 
 msgctxt "#30063"
 msgid "RetroPad > Right Analog > Down"
-msgstr ""
+msgstr "RetroPad > Analogico destro > Giù"
 
 msgctxt "#30064"
 msgid "RetroPad > Right Analog > Left"
-msgstr ""
+msgstr "RetroPad > Analogico destro > Sinistra"
 
 msgctxt "#30065"
 msgid "RetroPad > Right Analog > Right"
-msgstr ""
+msgstr "RetroPad > Analogico destro > Destra"
 
 msgctxt "#30066"
 msgid "Input > Userport Joystick Adapter"
-msgstr ""
+msgstr "Input > Adattatore joystick Userport"
 
 msgctxt "#30067"
 msgid "System > Printer"
-msgstr ""
+msgstr "Sistema > Stampante"
 
 msgctxt "#30068"
 msgid "Video > Crop"
@@ -319,11 +319,11 @@ msgstr "Supporti > Floppy MultiDrive"
 
 msgctxt "#30079"
 msgid "Video > Automatic Crop Delay"
-msgstr ""
+msgstr "Video > Ritardo ritaglio automatico"
 
 msgctxt "#30080"
 msgid "Audio > CRTC Audio Leak Emulation"
-msgstr ""
+msgstr "Audio > Emulazione dispersione audio CRTC"
 
 #~ msgctxt "#30069"
 #~ msgid "Video > Zoom Mode"
