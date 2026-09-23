@@ -498,10 +498,6 @@ msgctxt "#30121"
 msgid "Configure video options."
 msgstr ""
 
-msgctxt "#30122"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr ""
-
 msgctxt "#30123"
 msgid "Small"
 msgstr ""
@@ -1579,6 +1575,10 @@ msgstr ""
 
 msgctxt "#30386"
 msgid "95%"
+msgstr ""
+
+msgctxt "#30387"
+msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
 msgstr ""
 
 #~ msgctxt "#30000"

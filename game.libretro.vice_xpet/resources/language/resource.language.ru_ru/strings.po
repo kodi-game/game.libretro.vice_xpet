@@ -507,10 +507,6 @@ msgctxt "#30121"
 msgid "Configure video options."
 msgstr "Настройка параметров видео."
 
-msgctxt "#30122"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr "Удалять рамки в соответствии с «Режимом обрезки»."
-
 msgctxt "#30123"
 msgid "Small"
 msgstr "Малый"
@@ -1612,6 +1608,14 @@ msgstr "90 %"
 msgctxt "#30386"
 msgid "95%"
 msgstr "95 %"
+
+msgctxt "#30387"
+msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
+msgstr ""
+
+#~ msgctxt "#30122"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr "Удалять рамки в соответствии с «Режимом обрезки»."
 
 #~ msgctxt "#30069"
 #~ msgid "Video > Zoom Mode"
