@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vice_xpet"
 		name="Commodore - PET (VICE xpet)"
-		version="3.10.0.44"
+		version="3.10.0.45"
 		provider-name="VICE Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -17,6 +17,7 @@
 		<supports_standalone>true</supports_standalone>
 		<supports_disc_control>true</supports_disc_control>
 		<libretro_core>vice_xpet_libretro</libretro_core>
+		<savestate_features>serialized</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
